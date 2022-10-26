@@ -1,0 +1,107 @@
+---
+title: "Most Important Books to Read"
+author: "Alex Brunk"
+date: "2022-10-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+```
+
+## Most Important Books
+
+I am an avid reader, and have been since I was a small child. My interests include historical fiction, fantasy/sci-fi, biographies, histories, and works of political philosophy. 
+
+In the last few years however, I've been attempting to read more books that are considered 'classics.' There is no universal definition of what is a 'classic' though there are many good lists such as the 'Great Books of the Western World' prepared by the late great Mortimer Adler. 
+
+A few examples of 'classics' I've read in the last few years are:
+
+* Meditations by Marcus Aurelius
+* The Power and the Glory by Graham Greene
+* All Quiet on the Western Front by Erich Maria Remarque
+* The Stranger by Albert Camus
+* Utopia by Thomas More
+* The Rights of Man by Thomas Paine
+* Moby Dick by Herman Melville
+* Brave New World by Aldous Huxley
+* Narrative of Life of Frederick Douglass by Frederick Douglass
+* The Time Machine by HG Wells
+* Heart of Darkness by Joseph Conrad
+
+These are all books that show up on various lists of 'classics' from different eras and genres. But any such decisions are arbitrary. Who decides what a classic is? How should one determine which are worth reading? How to make decisions about which books to read given finite time to read them?
+
+## The Concept - A Model to Determine the Importance of Classics
+
+I turned to Project Gutenberg, which has an extensive library of public domain books. There is an existing Python library called gutenbergpy that has been designed to make it easier to download Project Gutenberg texts into Python code.
+
+As an example, here is a full printing of 'Moby Dick' without header information using the package instructions available here: https://github.com/raduangelescu/gutenbergpy and the unique identifier for the Moby Dick text found by googling here https://www.gutenberg.org/ebooks/15
+
+```{python}
+import gutenbergpy.textget
+import collections
+import numpy as np
+import pandas as pd
+import nltk  
+import re
+import random
+import bs4 as bs
+import urllib.request 
+
+nltk.download('punkt')
+
+# return Moby Dick text using Project Gutenberg ID
+moby_dick = gutenbergpy.textget.get_text_by_id(15)
+# print(moby_dick)
+clean_book  = gutenbergpy.textget.strip_headers(moby_dick)
+encoding = 'utf-8'
+
+string_book = clean_book.decode(encoding)
+# print(string_book)
+
+```
+
+We can then create a corpus and tokenize the text for NLP processing as follows:
+
+```{python}
+corpus = nltk.sent_tokenize(string_book)
+
+for i in range(len(corpus )):
+    corpus [i] = corpus [i].lower()
+    corpus [i] = re.sub(r'\W',' ',corpus [i])
+    corpus [i] = re.sub(r'\s+',' ',corpus [i])
+    
+wordfreq = {}
+for sentence in corpus:
+    tokens = nltk.word_tokenize(sentence)
+    for token in tokens:
+        if token not in wordfreq.keys():
+            wordfreq[token] = 1
+        else:
+            wordfreq[token] += 1
+
+```
+
+In addition to getting the text of any individual book in Project Gutenberg, we can also connect to their database of book metadata information:
+
+```{python}
+from gutenbergpy.gutenbergcache import GutenbergCache
+#for sqlite
+GutenbergCache.create()
+```
+
+Now, let's connect to the database and start some querys.
+
+```{python}
+cache  = GutenbergCache.get_cache()
+my_cursor = cache.native_query("SELECT a.id,b.name,c.name FROM books a inner join titles b on a.id = b.id inner join authors c on a.id = c.id where a.id = 15")
+for row in my_cursor:
+    print(row)
+```
+
+
+
+```{python}
+
+```
