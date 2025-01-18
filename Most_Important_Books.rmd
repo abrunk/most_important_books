@@ -2,7 +2,7 @@
 title: "Most Important Books to Read"
 author: "Alex Brunk"
 date: "2022-10-26"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -50,15 +50,21 @@ import bs4 as bs
 import urllib.request 
 
 nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger', quiet=True)
+nltk.download('maxent_ne_chunker', quiet=True)
+nltk.download('words', quiet=True)
 
 # return Moby Dick text using Project Gutenberg ID
 moby_dick = gutenbergpy.textget.get_text_by_id(15)
+
 # print(moby_dick)
 clean_book  = gutenbergpy.textget.strip_headers(moby_dick)
-encoding = 'utf-8'
 
-string_book = clean_book.decode(encoding)
-# print(string_book)
+# Try to decode the text
+try:
+    string_book = clean_book.decode('utf-8')
+except UnicodeDecodeError:
+    string_book = clean_book.decode('latin-1')  # fallback encoding
 
 ```
 
@@ -100,8 +106,79 @@ for row in my_cursor:
     print(row)
 ```
 
-
+For this step, we will rely on some existing code available here https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk with some minor tweaks to create a list of names in the text of Moby Dick.
 
 ```{python}
+token_list = []
+
+def extract_entities(text):
+  for sent in nltk.sent_tokenize(text):
+    for chunk in nltk.ne_chunk(nltk.pos_tag(nltk.word_tokenize(sent))):
+      if hasattr(chunk, 'label'): 
+        # print(chunk.label(), ' '.join(c[0] for c in chunk.leaves()))
+        for c in chunk.leaves():
+          this_row = c[0]
+          token_list.append(this_row)
+
+extract_entities(string_book)
+
+print(token_list)
+
+from collections import Counter
+Counter(token_list)
+
+```
+
+From here, the next step is to remove common words that you would find in the dictionary to ensure that we are working with a list of unique names that could be identified as a reference to the text. First let's try the nltk words list.
+
+```{python}
+
+from nltk.corpus import words
+
+"would" in words.words()
+"Starbuck" in words.words()
+
+```
+
+This doesn't seem to work, as the list of words contains names and not just English dictionary terms. Let's try referencing an actual dictionary.
+
+```{python}
+
+import enchant 
+d = enchant.Dict("en_US")
+d.check("would")
+d.check("Starbuck")
+d.check("Etymology")
+d.check("etymology")
+d.check("Ahab")
+d.check("ahab")
+```
+
+A random word like 'would' returns 'TRUE' while 'Starbuck' - a name of a character in Moby Dick - returns 'FALSE'. There's also some random junk in here, so let's first remove punctuation and convert everything to all lowercase (as some proper nouns are in the dictionary with uppercase only)
+
+```{python}
+import string
+token_list = [item.lower() for item in token_list]
+for index, item  in enumerate(token_list):
+  print(index,item)
+  token_list[index] = item.translate(str.maketrans('','',string.punctuation))
+#  if d.check(item):
+#    token_list.pop(index)
+print(token_list)
+```
+
+
+Next, iterate through again to remove everything that's an English dictionary word. Note that I tried combining these steps to enumerate through the list only once, but the code didn't seem to work correctly.
+
+```{python}
+
+# print(token_list[0])
+
+for index, item  in enumerate(token_list):
+  if d.check(item):
+    token_list.pop(index)
+    
+# print(token_list)
+Counter(token_list)
 
 ```
