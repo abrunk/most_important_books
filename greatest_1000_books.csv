@@ -1,0 +1,1001 @@
+Rank,Book,Authors,Year,Country,Language
+1,The Great Gatsby,F. Scott Fitzgerald,1925,American,English
+2,Ulysses,James Joyce,1922,Irish,English
+3,In Search of Lost Time,Marcel Proust,1913,French,French
+8,Moby-Dick,Herman Melville,1851,American,English
+9,Anna Karenina,Leo Tolstoy,1877,Russian,Russian
+10,Don Quixote,Miguel de Cervantes,1605,Spanish,Spanish
+11,Wuthering Heights,Emily Brontë,1847,British,English
+12,War and Peace,Leo Tolstoy,1869,Russian,Russian
+14,Crime and Punishment,Fyodor Dostoevsky,1866,Russian,Russian
+15,Pride and Prejudice,Jane Austen,1813,British,English
+19,The Odyssey,Homer,-740,Greek,Ancient greek
+20,The Brothers Karamazov,Fyodor Dostoevsky,1880,Russian,Russian
+21,Madame Bovary,Gustave Flaubert,1857,French,French
+22,Heart of Darkness,Joseph Conrad,1899,British,English
+23,Middlemarch,George Eliot,1871,British,English
+25,Alice's Adventures in Wonderland,Lewis Carroll,1865,British,English
+26,The Divine Comedy,Dante Alighieri,1308,Italian,Italian
+28,The Trial,Franz Kafka,1925,Czech,German
+29,The Bible,Unknown,-1400,Jewish,"Hebrew, aramaic, greek"
+30,Jane Eyre,Charlotte Brontë,1847,British,English
+31,The Magic Mountain,Thomas Mann,1924,German,German
+32,Mrs. Dalloway,Virginia Woolf,1925,British,English
+33,Great Expectations,Charles Dickens,1860,British,English
+34,Adventures of Huckleberry Finn,Mark Twain,1884,American,English
+37,The Iliad,Homer,-750,Greek,Ancient greek
+39,Frankenstein,Mary Shelley,1818,British,English
+40,Les Misérables,Victor Hugo,1862,French,French
+41,The Red and the Black,Stendhal,1830,French,French
+44,One Thousand and One Nights,Unknown,800,Multiple,Arabic
+48,The Life And Opinions Of Tristram Shandy,Laurence Sterne,1759,British,English
+49,David Copperfield,Charles Dickens,1849,British,English
+58,The Aeneid,Virgil,19,Roman,Latin
+60,Gulliver's Travels,Jonathan Swift,1726,British,English
+61,A Passage to India,E. M. Forster,1924,British,English
+62,Leaves of Grass,Walt Whitman,1855,American,English
+63,The Good Soldier,Ford Madox Ford,1915,British,English
+65,Hamlet,William Shakespeare,1600,British,English
+66,The Portrait of a Lady,Henry James,1881,American,English
+67,Dracula,Bram Stoker,1897,British,English
+70,Candide,Voltaire,1759,French,French
+72,Essays,Michel de Montaigne,1580,French,French
+74,The Idiot,Fyodor Dostoevsky,1869,Russian,Russian
+76,Oedipus the King,Sophocles,-429,Greek,Ancient greek
+80,Little Women,Louisa May Alcott,1868,American,English
+81,The Metamorphosis,Franz Kafka,1915,Czech,German
+84,A Portrait of the Artist as a Young Man,James Joyce,1916,Irish,English
+86,The Stories of Anton Chekhov,Anton Chekhov,1900,Russian,Russian
+88,Demons,Fyodor Dostoevsky,1872,Russian,Russian
+89,The Age of Innocence,Edith Wharton,1920,American,English
+90,Faust,Johann Wolfgang von Goethe,1808,German,German
+93,Emma,Jane Austen,1815,British,English
+92,The Complete Tales and Poems of Edgar Allan Poe,Edgar Allan Poe,1902,American,English
+95,The Count of Monte Cristo,Alexandre Dumas,1844,French,French
+96,The Picture of Dorian Gray,Oscar Wilde,1890,British,English
+97,Vanity Fair,William Makepeace Thackeray,1847,British,English
+99,The Scarlet Letter,Nathaniel Hawthorne,1850,American,English
+103,Robinson Crusoe,Daniel Defoe,1719,British,English
+104,The Tale of Genji,Murasaki Shikibu,1001,Japanese,Classical japanese
+106,Treasure Island,Robert Louis Stevenson,1883,British,English
+107,Buddenbrooks,Thomas Mann,1901,German,German
+108,Bleak House,Charles Dickens,1852,British,English
+109,The Wind in the Willows,Kenneth Grahame,1908,British,English
+115,The Hound of the Baskervilles,Arthur Conan Doyle,1902,British,English
+118,Walden,Henry David Thoreau,1854,American,English
+120,Dead Souls,Nikolai Gogol,1842,Russian,Russian
+121,Antigone,Sophocles,-441,Greek,Ancient greek
+127,King Lear,William Shakespeare,1608,British,English
+128,Tess of the d'Urbervilles,Thomas Hardy,1891,British,English
+132,The Charterhouse of Parma,Stendhal,1839,French,French
+133,Decameron,Giovanni Boccaccio,1353,Italian,Italian
+135,The Woman in White,Wilkie Collins,1860,British,English
+137,Paradise Lost,John Milton,1667,British,English
+138,Poems of Emily Dickinson,Emily Dickinson,1890,American,English
+139,First Folio,William Shakespeare,1623,British,English
+140,The Three Musketeers,Alexandre Dumas,1844,French,French
+143,A Sentimental Education,Gustave Flaubert,1869,French,French
+144,The Canterbury Tales,Geoffrey Chaucer,1400,British,Middle english
+148,Howards End,E. M. Forster,1910,British,English
+149,Macbeth,William Shakespeare,1606,British,English
+151,Lord Jim,Joseph Conrad,1900,British,English
+154,The Prince,Niccolo Machiavelli,1532,Italian,Italian
+159,The Waste Land,T. S. Eliot,1922,British,English
+160,Sons and Lovers,D. H. Lawrence,1913,British,English
+162,The Interpretation of Dreams,Sigmund Freud,1899,Austrian,German
+163,Tom Jones,Henry Fielding,1749,British,English
+167,The Flowers of Evil,Charles Baudelaire,1857,French,French
+168,Fairy Tales and Stories,Hans Christian Andersen,1835,Danish,Danish
+171,Confessions of Zeno,Italo Svevo,1923,Italian,Italian
+172,On the Origin of Species,Charles Darwin,1859,British,English
+175,Metamorphoses,Ovid,8,Roman,Latin
+176,The Good Soldier Svejk,Jaroslav Hašek,1921,Czech,Czech
+177,Confessions,Augustine,397,Roman,Latin
+179,A Christmas Carol,Charles Dickens,1843,British,English
+184,Fathers and Sons,Ivan Turgenev,1862,Russian,Russian
+190,My Antonia,Willa Cather,1918,American,English
+200,Communist Manifesto,"Karl Marx, Friedrich Engels",1848,German,German
+201,An American Tragedy,Theodore Dreiser,1925,American,English
+204,The House of Mirth,Edith Wharton,1905,American,English
+208,A Season in Hell,Arthur Rimbaud,1873,French,French
+209,Persuasion,Jane Austen,1817,British,English
+210,Gargantua and Pantagruel,Francois Rabelais,1532,French,French
+213,The Life of Samuel Johnson,James Boswell,1791,British,English
+214,The Tempest,William Shakespeare,1623,British,English
+218,The Jungle,Upton Sinclair,1906,American,English
+219,The Turn of the Screw,Henry James,1898,American,English
+220,A Tale of Two Cities,Charles Dickens,1859,British,English
+228,The Counterfeiters,André Gide,1925,French,French
+230,Democracy in America,Alexis de Tocqueville,1835,French,French
+235,Uncle Tom's Cabin,Harriet Beecher Stowe,1852,American,English
+236,Hunger,Knut Hamsun,1890,Norwegian,Norwegian
+243,Anne of Green Gables,L. M. Montgomery,1908,Canadian,English
+244,Oblomov,Ivan Goncharov,1859,Russian,Russian
+245,Nostromo,Joseph Conrad,1904,British,English
+248,"Winesburg, Ohio",Sherwood Anderson,1919,American,English
+249,Medea,Euripides,-431,Greek,Ancient greek
+250,The Forsyte Saga,John Galsworthy,1906,British,English
+252,The Death of Ivan Ilyich,Leo Tolstoy,1886,Russian,Russian
+254,The Time Machine,H. G. Wells,1895,British,English
+255,The Confessions of Jean-Jacques Rousseau,Jean-Jacques Rousseau,1782,French,French
+256,Epic of Gilgamesh,Unknown,-2100,Multiple,Akkadian
+258,Dangerous Liaison,Pierre Choderlos de Laclos,1782,French,French
+262,The Republic,Plato,-379,Greek,Ancient greek
+263,Women in Love,D. H. Lawrence,1920,British,English
+264,Of Human Bondage,W. Somerset Maugham,1915,British,English
+265,The Ambassadors,Henry James,1903,American,English
+270,Thus Spake Zarathustra,Friedrich Nietzsche,1883,German,German
+272,Leviathan,Thomas Hobbes,1651,British,English
+276,The Pickwick Papers,Charles Dickens,1836,British,English
+277,Mahabharata,Vyasa,-400,Indian,Sanskrit
+278,Siddhartha,Hermann Hesse,1922,German,German
+296,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,British,English
+282,A Hero of Our Time,Mikhail Lermontov,1840,Russian,Russian
+286,Peter And Wendy,J. M. Barrie,1911,Scottish,English
+287,The Private Memoirs and Confessions of a Justified Sinner,James Hogg,1824,Scottish,English
+292,Oresteia,Aeschylus,-458,Greek,Ancient greek
+293,The Posthumous Memoirs of Bras Cubas,Machado de Assis,1881,Brazilian,Portuguese
+294,Tarzan of the Apes,Edgar Rice Burroughs,1912,American,English
+299,Wings of the Dove,Henry James,1902,American,English
+303,Babbitt,Sinclair Lewis,1922,American,English
+304,The Call of the Wild,Jack London,1903,American,English
+306,Kim,Rudyard Kipling,1901,British,English
+308,La Regenta,Clarín,1884,Spanish,Spanish
+312,La Celestina,Fernando de Rojas,1499,Spanish,Spanish
+314,The Complete Works of Plato,Plato,-387,Greek,Ancient greek
+316,Father Goriot,Honoré de Balzac,1835,French,French
+317,The Awakening,Kate Chopin,1899,American,English
+319,The Education of Henry Adams,Henry Adams,1907,American,English
+321,Meditations,Marcus Aurelius,161,Roman,Greek
+325,The Old Wives' Tale,Arnold Bennett,1908,British,English
+328,Kristin Lavransdatter,Sigrid Undset,1920,Norwegian,Norwegian
+330,Our Mutual Friend,Charles Dickens,1864,British,English
+333,The Elements of Style,"E. B. White, William Strunk Jr.",1918,American,English
+335,The Mayor of Casterbridge,Thomas Hardy,1886,British,English
+338,The Poems of Robert Frost,Robert Frost,1913,American,English
+341,A Room With a View,E. M. Forster,1908,British,English
+342,The Mill on the Floss,George Eliot,1860,British,English
+345,The Secret Garden,Frances Hodgson Burnett,1911,British,English
+347,The Princess of Cleves,Madame de La Fayette,1678,French,French
+348,Clarissa,Samuel Richardson,1748,British,English
+349,Memoirs From Beyond the Grave,François-Auguste-René de Chateaubriand,1849,French,French
+353,Journey to the West,Wu Cheng'en,1592,Chinese,Chinese
+355,History of My Life,Giacomo Casanova,1822,Italian,French
+361,A Vindication of the Rights of Woman,Mary Wollstonecraft,1792,British,English
+363,Ivanhoe,Sir Walter Scott,1819,British,English
+370,The Moonstone,Wilkie Collins,1868,British,English
+373,The Souls of Black Folk,W. E. B. Du Bois,1903,American,English
+377,Germinal,Émile Zola,1885,French,French
+380,Relativity,Albert Einstein,1916,German,German
+381,War of the Worlds,H. G. Wells,1898,British,English
+383,The Sorrows of Young Werther,Johann Wolfgang von Goethe,1774,German,German
+384,Parade's End,Ford Madox Ford,1924,British,English
+388,The Confusions of Young Törless,Robert Musil,1906,Austrian,German
+390,Jude the Obscure,Thomas Hardy,1895,British,English
+392,Ramayana,Valmiki,-200,Indian,Sanskrit
+396,Das Kapital,Karl Marx,1867,German,German
+397,Le Grand Meaulnes,Henri Alain-Fournier,1913,French,French
+398,The Federalist Papers,"Alexander Hamilton, James Madison, John Jay",1787,American,English
+399,We,Yevgeny Zamyatin,1924,Russian,Russian
+400,Notes from the Underground,Fyodor Dostoevsky,1864,Russian,Russian
+407,The Notebooks of Malte Laurids Brigge,Rainer Maria Rilke,1910,German,German
+408,Eugene Onegin,Alexander Pushkin,1833,Russian,Russian
+409,The Prophet,Kahlil Gibran,1923,Lebanese,English
+411,Critique of Pure Reason,Immanuel Kant,1781,German,German
+413,The Adventures of Tom Sawyer,Mark Twain,1876,American,English
+414,The Ragged Trousered Philanthropists,"Robert Tressell, Peter Miles",1914,British,English
+419,Tractatus Logico-Philosophicus,Ludwig Wittgenstein,1921,Austrian,German
+420,Bartleby the Scrivener,Herman Melville,1853,American,English
+421,Oedipus at Colonus,Sophocles,-401,Greek,Ancient greek
+423,Melmoth the Wanderer,Charles Robert Maturin,1820,British,English
+424,Pensées,Blaise Pascal,1670,French,French
+428,Eminent Victorians,Lytton Strachey,1918,British,English
+429,Fortunata and Jacinta,Benito Pérez Galdós,1887,Spanish,Spanish
+432,A Doll's House,Henrik Ibsen,1879,Norwegian,Norwegian
+434,Household Tales,Brothers Grimm,1812,German,German
+435,The Betrothed,Alessandro Manzoni,1827,Italian,Italian
+439,The Social Contract,Jean-Jacques Rousseau,1762,French,French
+441,Parallel Lives,Plutarch,-100,Greek,Greek
+443,The Hunchback of Notre-Dame,Victor Hugo,1831,French,French
+444,Poems by Machado,Antonio Machado,1907,Spanish,Spanish
+446,Jacques the Fatalist and His Master,Denis Diderot,1796,French,French
+450,The Secret Agent,Joseph Conrad,1907,British,English
+452,Facundo,Domingo Faustino Sarmiento,1845,Argentinian,Spanish
+454,De Rerum Natura,Lucretius,55,Roman,Latin
+456,Bouvard et Pécuchet,Gustave Flaubert,1881,French,French
+457,On Liberty,John Stuart Mill,1859,British,English
+458,Dubliners,James Joyce,1914,Irish,English
+459,Richard III,William Shakespeare,1592,British,English
+460,Twenty Thousand Leagues Under the Sea,Jules Verne,1870,French,French
+462,Sister Carrie,Theodore Dreiser,1900,American,English
+461,The Human Comedy,Honoré de Balzac,1830,French,French
+464,The Swindler,Francisco de Quevedo,1626,Spanish,Spanish
+466,Effi Briest,Theodor Fontane,1895,German,German
+470,The Nicomachean Ethics,Aristotle,-334,Greek,Ancient greek
+477,The Way We Live Now,Anthony Trollope,1875,British,English
+478,The Thirty-Nine Steps,John Buchan,1915,British,English
+481,Reflections on the Revolution in France,Edmund Burke,1790,British,English
+483,The Histories of Herodotus,Herodotus,-450,Greek,Ancient greek
+490,Moll Flanders,Daniel Defoe,1722,British,English
+500,Call to Arms,Lu Xun,1922,Chinese,Chinese
+501,The Vicar of Wakefield,Oliver Goldsmith,1766,British,English
+505,The Castle of Otranto,Horace Walpole,1764,British,English
+506,Complete Poems of Giacomo Leopardi,Giacomo Leopardi,1831,Italian,Italian
+507,Quo Vadis,Henryk Sienkiewicz,1895,Polish,Polish
+509,Stories of Guy de Maupassant,Guy de Maupassant,1880,French,French
+511,The Varieties of Religious Experience,William James,1902,American,English
+513,The Custom of the Country,Edith Wharton,1913,American,English
+514,Encyclopedia Britannica,Encyclopedia Britannica,1768,British,English
+516,The Wonderful Wizard of Oz,L. Frank Baum,1900,American,English
+520,Cousin Bette,Honoré de Balzac,1846,French,French
+524,New Grub Street,George Gissing,1891,British,English
+527,Romance of the Three Kingdoms,Guanzhong Luo,1400,Chinese,Chinese
+529,Ethics,Baruch de Spinoza,1677,Dutch,Latin
+530,The Decline and Fall of the Roman Empire,Edward Gibbon,1776,British,English
+531,The Duino Elegies,Rainer Maria Rilke,1923,German,German
+533,The Monk,Matthew Lewis,1796,British,English
+534,Platero,Juan Ramón Jiménez,1914,Spanish,Spanish
+535,The Book of Job,Unknown,-600,Israeli,Hebrew
+537,Through the Looking Glass,Lewis Carroll,1871,British,English
+538,The Book of the City of Ladies,Christine De Pizan,1405,French,French
+541,Sense and Sensibility,Jane Austen,1811,British,English
+543,Black Beauty,Anna Sewell,1877,British,English
+551,Uncle Silas,Sheridan Le Fanu,1864,Irish,English
+554,Oroonoko,Aphra Behn,1688,British,English
+557,Ethan Frome,Edith Wharton,1911,American,English
+563,The Adventures of Oliver Twist,Charles Dickens,1837,British,English
+566,The Golden Ass,Apuleius,158,Roman,Latin
+570,The Immoralist,André Gide,1902,French,French
+573,Lost Illusions,Honoré de Balzac,1837,French,French
+575,The Cherry Orchard,Anton Chekhov,1904,Russian,Russian
+580,Three Sisters,Anton Chekhov,1901,Russian,Russian
+583,The Wealth of Nations,Adam Smith,1776,Scottish,English
+584,The Lady with the Dog,Anton Chekhov,1899,Russian,Russian
+587,Adam Bede,George Eliot,1859,British,English
+589,Barchester Towers,Anthony Trollope,1857,British,English
+592,The Island of Doctor Moreau,H. G. Wells,1896,British,English
+593,In Our Time,Ernest Hemingway,1925,American,English
+595,Maldoror,Comte de Lautréamont,1868,French,French
+598,Far from the Madding Crowd,Thomas Hardy,1874,British,English
+600,Main Street,Sinclair Lewis,1920,American,English
+603,Jakob Von Gunten,Robert Walser,1909,Swiss,German
+607,The Golden Bowl,Henry James,1904,American,English
+608,Dream of the Red Chamber,Cao Xueqin,1754,Chinese,Chinese
+610,The Art of War,Sun Tzu,-500,Chinese,Classical chinese
+619,North and South,Elizabeth Gaskell,1855,British,English
+626,Meditations on First Philosophy,Rene Descartes,1641,French,Latin
+627,The Manuscript Found in Saragossa,Jan Potocki,1805,Polish,French
+631,The Last of the Mohicans,James Fenimore Cooper,1826,American,English
+633,The Adventures of Caleb Williams,William Godwin,1794,British,English
+635,Manhattan Transfer,John Dos Passos,1925,American,English
+637,The Waning of the Middle Ages,Johan Huizinga,1919,Dutch,Dutch
+640,The Golden Bough,James George Frazer,1890,British,English
+644,Electra,Sophocles,-409,Greek,Ancient greek
+649,Silas Marner,George Eliot,1861,British,English
+653,Death in Venice,Thomas Mann,1912,German,German
+654,The Man Who Was Thursday,G. K. Chesterton,1908,British,English
+657,The Sonnets,William Shakespeare,1609,British,English
+658,Thérèse Raquin,Émile Zola,1867,French,French
+659,The House On The Borderland And Other Novels,William Hope Hodgson,1908,British,English
+660,Poems Of Thomas Hardy,Thomas Hardy,1898,British,English
+662,The Red Room,August Strindberg,1879,Swedish,Swedish
+665,Life Is a Dream,Pedro Calderón de la Barca,1635,Spanish,Spanish
+668,Romeo and Juliet,William Shakespeare,1597,British,English
+669,Growth of the Soil,Knut Hamsun,1917,Norwegian,Norwegian
+670,The Bacchae,Euripides,-405,Greek,Ancient greek
+672,The History of the Peloponnesian War,Thucydides,-410,Greek,Ancient greek
+675,The Tale of Peter Rabbit,Beatrix Potter,1902,British,English
+673,Letters from a Stoic,Seneca,64,Roman,Latin
+676,Ghost Stories Of An Antiquary,M. R. James,1904,British,English
+677,Rhymes And Legends,Gustavo Adolfo Bécquer,1871,Spanish,Spanish
+681,The Expedition of Humphry Clinker,Tobias Smollett,1771,British,English
+683,Alcools,Guillaume Apollinaire,1913,French,French
+690,Way of All Flesh,Samuel Butler,1903,British,English
+691,Daniel Deronda,George Eliot,1876,British,English
+695,Drunkard,Émile Zola,1877,French,Unknown
+697,Le Morte d'Arthur,Thomas Malory,1485,British,Middle english
+698,Rights of Man,Thomas Paine,1791,British,English
+702,Eugenie Grandet,Honoré de Balzac,1833,French,French
+713,Petrarch's Songbook,Francesco Petrarca,1341,Italian,Italian
+715,The Life of Lazarillo de Tormes,Unknown,1554,Spanish,Spanish
+716,The Water Margin,Shi Naian,1370,Chinese,Chinese
+719,Lives of the Artists,Giorgio Vasari,1550,Italian,Italian
+721,Annals,Cornelius Tacitus,109,Roman,Latin
+724,Green Henry,Gottfried Keller,1855,Swiss,German
+725,The Lusiad,Luís Vaz Camões,1572,Portuguese,Portuguese
+727,The People of Hemsö,August Strindberg,1887,Swedish,Swedish
+729,The Solitudes,Luis de Góngora,1613,Spanish,Spanish
+735,Vathek,William Beckford,1786,British,French
+740,The Worst Journey in the World,Apsley Cherry-Garrard,1922,British,English
+745,Uncle Vanya,Anton Chekhov,1897,Russian,Russian
+744,Hadrian the Seventh,Frederick Rolfe,1904,British,English
+749,The True History of the Conquest of New Spain,Bernal Díaz del Castillo,1632,Spanish,Spanish
+750,The Principles of Psychology,William James,1890,American,English
+753,Pamela,Samuel Richardson,1740,British,English
+754,Bel Ami,Guy de Maupassant,1885,French,French
+763,King Solomon's Mines,H. Rider Haggard,1885,British,English
+766,The Return of the Native,Thomas Hardy,1878,British,English
+767,Dialogues Concerning Natural Religion,David Hume,1779,British,English
+768,The Mysteries of Udolpho,Ann Radcliffe,1794,British,English
+770,The Rainbow,D. H. Lawrence,1915,British,English
+772,The Nose,Nikolai Gogol,1836,Russian,Russian
+774,Economy and Society,Max Weber,1922,German,German
+781,Castle Rackrent,Maria Edgeworth,1800,British,English
+786,The Tenant of Wildfell Hall,Anne Brontë,1848,British,English
+791,Greguerias,Ramón Gómez de la Serna,1910,Spanish,Spanish
+793,The Enchanted Wanderer,Nikolai Leskov,1873,Russian,Russian
+796,The Interior Castle,Teresa of Avila,1588,Spanish,Spanish
+797,The Praise of Folly,Erasmus,1511,Dutch,Latin
+800,Jean Christophe,Romain Rolland,1904,French,French
+802,Women of Trachis,Sophocles,-450,Greek,Ancient greek
+803,Philoctetes,Sophocles,-409,Greek,Ancient greek
+804,Ajax,Sophocles,-440,Greek,Ancient greek
+801,Dom Casmurro,Machado de Assis,1899,Brazilian,Portuguese
+808,The Poetry of Luis Cernuda,Luis Cernuda,1901,Spanish,Spanish
+809,Tao Te Ching,Lao Tsu,-300,Chinese,Classical chinese
+810,Anton Reiser,Karl Philipp Moritz,1785,German,German
+811,Chaka,Thomas Mofolo,1925,South African,Sesotho
+812,The Stechlin,Theodor Fontane,1898,German,German
+817,Kalīla wa-Dimna,Anonymous,750,Iranian,Arabic
+820,The Phantom of the Opera,Gaston Leroux,1909,French,French
+822,Claudine,Colette,1900,French,French
+824,Northanger Abbey,Jane Austen,1817,British,English
+826,Discourse on Method,Rene Descartes,1637,French,French
+827,Riders of the Purple Sage,Zane Grey,1912,American,English
+829,Journey to the Center of the Earth,Jules Verne,1864,French,French
+831,Poems of Federico García Lorca,Federico García Lorca,1921,Spanish,Spanish
+834,The Theory of the Leisure Class,Thorstein Veblen,1899,American,English
+839,Symposium,Plato,-385,Greek,Ancient greek
+845,The Quran,Unknown,610,Arabic,Arabic
+851,A Sportsman's Notebook,Ivan Turgenev,1852,Russian,Russian
+855,The Pillow Book,Sei Shōnagon,1002,Japanese,Japanese
+861,The Life of Charlotte Brontë,Elizabeth Gaskell,1857,British,English
+867,Evelina,Fanny Burney,1778,British,English
+869,Othello,William Shakespeare,1603,British,English
+870,Riddle of the Sands,Erskine Childers,1903,British,English
+882,Lives of the Caesars,Suetonius,121,Roman,Latin
+887,The Red Badge of Courage,Stephen Crane,1895,American,English
+888,The Making of Americans,Gertrude Stein,1925,American,English
+889,Justine,Marquis de Sade,1791,French,French
+893,Simplicius Simplicissimus,Hans Jakob Christoffel von Grimmelshausen,1668,German,German
+894,Mein Kampf,Adolf Hitler,1925,German,German
+895,The Protestant Ethic and the Spirit of Capitalism,Max Weber,1905,German,German
+896,The Life and Opinions of the Tomcat Murr,E. T. A. Hoffmann,1819,German,German
+898,Hyperion,Friedrich Holderlin,1797,German,German
+899,Rashomon and Seventeen Other Stories,Ryunosuke Akutagawa,1915,Japanese,Japanese
+900,Thaïs,Anatole France,1890,French,French
+901,Fantômas,"Marcel Allain, Pierre Souvestre",1911,French,French
+903,The House of the Seven Gables,Nathaniel Hawthorne,1851,American,English
+905,The Life of a Good-For-Nothing,Joseph von Eichendorff,1826,German,German
+906,The Diary of a Nobody,"George Grossmith, Weedon Grossmith",1892,British,English
+912,Poems of Alfred Lord Tennyson,Alfred Tennyson,1830,British,English
+913,The Life Written By Himself,the Archpriest Avvakum,1666,Russian,Russian
+919,"Carry On, Jeeves",P. G. Wodehouse,1925,British,English
+917,The Nibelungenlied,Anonymous,1200,German,Middle high german
+918,Cane,Jean Toomer,1923,American,English
+923,Odessa Stories,Isaac Babel,1923,Ukrainian,Russian
+926,Evenings On A Farm Near Dikanka,Nikolai Gogol,1831,Russian,Russian
+932,Lysistrata,Aristophanes,-411,Greek,Ancient greek
+935,Martin Eden,Jack London,1909,American,English
+939,Elective Affinities,Johann Wolfgang von Goethe,1809,German,German
+938,Two Treatises of Government,John Locke,1689,British,English
+945,Prometheus Bound,Aeschylus,-455,Greek,Ancient greek
+953,The Innocence of Father Brown,G. K. Chesterton,1911,British,English
+971,Wilhelm Meister's Apprenticeship,Johann Wolfgang von Goethe,1795,German,German
+974,The Last Chronicle of Barset,Anthony Trollope,1867,British,English
+981,Around the World in Eighty Days,Jules Verne,1872,French,French
+982,The Complete Poetry and Prose of William Blake,William Blake,1827,British,English
+983,The House of Ulloa,Emilia Pardo Bazán,1886,Spanish,Spanish
+985,Cyrano de Bergerac,Edmond Rostand,1897,French,French
+990,Aesop's Fables,Aesop,-560,Greek,Ancient greek
+991,Apology,Plato,-389,Greek,Ancient greek
+992,Pilgrim's Progress,John Bunyan,1678,British,English
+994,Max Havelaar,Multatuli,1860,Dutch,Dutch
+995,Orthodoxy,G. K. Chesterton,1908,British,English
+1005,Six Characters in Search of an Author,Luigi Pirandello,1921,Italian,Italian
+1007,Twice-Told Tales,Nathaniel Hawthorne,1837,American,English
+1010,Against Nature,J. K. Huysmans,1884,French,French
+1011,The Odes,Horace,23,Roman,Latin
+1017,Narrative of the Life of Frederick Douglass,Frederick Douglass,1845,American,English
+1020,Three Men in a Boat,Jerome K. Jerome,1889,British,English
+1026,Corpus Aristotelicum,Aristotle,-322,Greek,Greek
+1029,Heidi,Johanna Spyri,1881,Swiss,German
+1030,Trent's Last Case,E. C. Bentley,1913,British,English
+1039,The Narrative of Arthur Gordon Pym,Edgar Allan Poe,1838,American,English
+1042,The Conference Of The Birds,Attar Neyshabouri,1177,Persian,Persian
+1043,Rubaiyat of Omar Khayyam,Edward FitzGerald,1859,British,English
+1045,The Persians,Aeschylus,-471,Greek,Ancient greek
+1046,Mc Teague,Frank Norris,1899,American,English
+1047,Erewhon,Samuel Butler,1872,British,English
+1050,"The History of Rasselas, Prince of Abissinia","Samuel Johnson, Abraham Raimbach, Robert Smirke",1759,British,English
+1054,I Malavoglia,Giovanni Verga,1881,Italian,Italian
+1056,Beowulf,Unknown,1000,Unknown,Old english
+1059,Some Experiences Of An Irish R.M.,"E.Œ. Somerville, Martin Ross",1899,Irish,English
+1062,Solitude,Caterina Albert,1905,Spanish,Catalan
+1064,Dialogue Concerning the Two Chief World Systems,Galileo,1632,Italian,Italian
+1070,Analects,Confucius,-479,Chinese,Classical chinese
+1078,The Queen Of Spades,Alexander Pushkin,1834,Russian,Russian
+1079,The Fall of the House of Usher,Edgar Allan Poe,1839,American,English
+1085,Manon Lescaut,Abbe Prevost,1731,French,French
+1095,Jurgen,James Branch Cabell,1919,American,English
+1097,An Enquiry Concerning Human Understanding,David Hume,1748,Scottish,English
+1099,Njal's Saga,Iceland,1280,Icelandic,Old norse
+1100,Kokoro,Natsume Sōseki,1914,Japanese,Japanese
+1104,Troilus And Criseyde,Geoffrey Chaucer,1385,British,Middle english
+1201,The Inimitable Jeeves,P. G. Wodehouse,1923,British,English
+1107,La Bête humaine,Émile Zola,1890,French,French
+1112,Under the Yoke,Ivan Vazov,1888,Bulgarian,Bulgarian
+1116,Our Nig,Harriet E. Wilson,1859,American,English
+1118,Camera Obscura,Nicolaas Beets,1839,Dutch,Dutch
+1117,Panchatantra,Unknown,-300,Multiple,Sanskrit
+1122,Eline Vere,Louis Couperus,1889,Dutch,Dutch
+1130,Don Juan,Lord Byron,1819,British,English
+1133,The George Sand-Gustave Flaubert Letters,Gustave Flaubert,1921,French,French
+1134,Mansfield Park,Jane Austen,1814,British,English
+1137,The History Of Henry Esmond,William Makepeace Thackeray,1852,British,English
+1138,The Professor's House,Willa Cather,1925,American,English
+1139,Collected Poems Of Edward Thomas,Edward Thomas,1920,British,English
+1144,Principia Mathematica,Isaac Newton,1687,British,Latin
+1149,The Quest,Frederik van Eeden,1887,Dutch,Dutch
+1149,Forest of the Hanged,Liviu Rebreanu,1922,Romanian,Romanian
+1147,Suicide,Emile Durkheim,1897,French,French
+1146,The Underdogs,Mariano Azuela,1915,Mexican,Spanish
+1151,Nana,Émile Zola,1880,French,French
+1163,Three Lives,Gertrude Stein,1909,American,English
+1167,The Clouds,Aristophanes,-423,Greek,Ancient greek
+1175,De Profundis,Oscar Wilde,1905,British,English
+1177,Tartuffe,Molière,1664,French,French
+1178,My Brilliant Career,Miles Franklin,1901,Australian,English
+1179,Widdershins,G. Oliver Onions,1911,British,English
+1183,White Fang,Jack London,1906,American,English
+1187,The Importance of Being Earnest,Oscar Wilde,1895,Irish,English
+1199,Incidents in the Life of a Slave Girl,Harriet Jacobs,1861,American,English
+1200,Ben-Hur,Lew Wallace,1880,American,English
+1204,The Man of Feeling,Henry Mackenzie,1771,British,English
+1205,Essays and Aphorisms,Arthur Schopenhauer,1851,German,German
+1206,Down There,J. K. Huysmans,1891,French,French
+1211,The King In Yellow,Robert W. Chambers,1895,American,English
+1216,The Poems of Sappho,Sappho,-569,Greek,Ancient greek
+1213,Adolphe,Benjamin Constant,1816,Swiss,French
+1215,News from Nowhere,William Morris,1890,British,English
+1222,Cranford,Elizabeth Gaskell,1851,British,English
+1226,The Narrow Road to the Deep North,Matsuo Bashō,1684,Japanese,Japanese
+1228,Collected Poems,Stéphane Mallarmé,1887,French,French
+1229,Eclipse of the Crescent Moon,Géza Gárdonyi,1899,Hungarian,Hungarian
+1227,Gentlemen Prefer Blondes,Anita Loos,1925,American,English
+1231,Flatland,Edwin A. Abbott,1884,British,English
+1233,The Birds,Aristophanes,-414,Greek,Ancient greek
+1234,Bai Ganyo,Aleko Konstantinov,1895,Bulgarian,Bulgarian
+1236,Illuminations,Arthur Rimbaud,1886,French,French
+1245,Home and the World,Rabindranath Tagore,1916,Indian,Bengali
+1250,Essays,Francis Bacon,1597,British,English
+1254,The Suppliants,Aeschylus,-463,Greek,Ancient greek
+1254,Seven Against Thebes,Aeschylus,-467,Greek,Ancient greek
+1261,The Crime of Father Amaro,Eça de Queirós,1875,Portuguese,Portuguese
+1262,Mother,Maxim Gorky,1906,Russian,Russian
+1264,Ten Days That Shook the World,John Reed,1919,American,English
+1271,The True Story Of Ah Q,Lu Xun,1922,Chinese,Chinese
+1273,The Golovlyov Family,Mikhail Saltykov-Shchedrin,1880,Russian,Russian
+1277,Upanishads,Hindu scripture,-799,Indian,Sanskrit
+1293,The Prelude,William Wordsworth,1850,British,English
+1292,Anabasis,Xenophon,-390,Greek,Ancient greek
+1301,Poems of Eugenio Montale,Eugenio Montale,1925,Italian,Italian
+1303,Phenomenology of Mind,G. W. F. Hegel,1807,German,German
+1306,What Maisie Knew,Henry James,1897,American,English
+1310,The Diary of Samuel Pepys,Samuel Pepys,1825,British,English
+1313,Joseph Andrews,Henry Fielding,1742,British,English
+1312,Émile,Jean-Jacques Rousseau,1762,French,French
+1317,The Murders in the Rue Morgue,Edgar Allan Poe,1841,American,English
+1320,On the Genealogy of Morality,Friedrich Nietzsche,1887,German,German
+1321,Dombey and Son,Charles Dickens,1846,British,English
+1324,The Adventures of Peregrine Pickle,Tobias Smollett,1751,British,English
+1322,The Nun,Denis Diderot,1796,French,French
+1322,In a Glass Darkly,Sheridan Le Fanu,1872,Irish,English
+1325,The Maias,Eça de Queirós,1888,Portuguese,Portuguese
+1326,The Interesting Narrative of the Life of Olaudah Equiano,Olaudah Equiano,1789,African,English
+1328,The Cathedral Folk,Nikolai Leskov,1872,Russian,Russian
+1329,The 120 Days of Sodom,Marquis de Sade,1904,French,French
+1330,The Natural History and Antiquities of Selborne,Gilbert White,1789,British,English
+1336,The House Of Souls,Arthur Machen,1906,British,English
+1338,Phaedo,Plato,-379,Greek,Ancient greek
+1345,Song of Songs,Christian Church,-500,Jewish,Hebrew
+1351,A Voyage To Arcturus,David Lindsay,1920,Scottish,English
+1355,She,H. Rider Haggard,1887,British,English
+1357,Villette,Charlotte Brontë,1853,British,English
+1359,The Wandering Jew,Eugène Sue,1844,French,French
+1365,Pygmalion,George Bernard Shaw,1913,British,English
+1366,The Recognition of Sakuntala,Kālidāsa,-400,Indian,Sanskrit
+1368,Herland,Charlotte Perkins Gilman,1915,American,English
+1369,An Essay Concerning Human Understanding,John Locke,1689,British,English
+1370,Oxford English Dictionary,Oxford University Press,1884,British,English
+1375,Pan,Knut Hamsun,1894,Norwegian,Norwegian
+1377,Masnavi,Jalal al-Din Muhammad Rumi,1258,Persian,Persian
+1381,Petersburg,Andrei Bely,1913,Russian,Russian
+1382,Bostan,Saadi,1257,Persian,Persian
+1387,A Sentimental Journey Through France and Italy,Laurence Sterne,1768,British,English
+1388,The Country of the Pointed Firs,Sarah Orne Jewett,1896,American,English
+1389,Rob Roy,Sir Walter Scott,1817,British,English
+1390,The Fruits of the Earth,André Gide,1897,French,French
+1394,"Julie, or the New Heloise",Jean-Jacques Rousseau,1761,French,French
+1393,The Return of the Soldier,Rebecca West,1918,British,English
+1400,Locus Solus,Raymond Roussel,1914,French,French
+1403,The Anatomy of Melancholy,Robert Burton,1621,British,English
+1405,Strait is the Gate,André Gide,1909,French,French
+1405,Crome Yellow,Aldous Huxley,1921,British,English
+1404,What Is To Be Done?,Vladimir Il’ich Lenin,1902,Russian,Russian
+1412,Poem of the Cid,Unknown,1207,Spanish,Old spanish
+1414,Pallieter,Felix Timmermans,1916,Belgian,Dutch
+1415,The Charwoman's Daughter,James Stephens,1912,Irish,English
+1416,Life on the Mississippi,Mark Twain,1883,American,English
+1423,La Fontaine's Fables,Jean de La Fontaine,1668,French,French
+1432,The Journal of Jules Renard,Jules Renard,1887,French,French
+1447,Songs of Innocence and Experience,William Blake,1789,British,English
+1448,Demian,Hermann Hesse,1919,German,German
+1452,Trilce,César Vallejo,1922,Peruvian,Spanish
+1455,Summa Theologica,Thomas Aquinas,1274,Italian,Latin
+1461,National Episodes,Benito Pérez Galdós,1873,Spanish,Spanish
+1469,The Serious Game,Hjalmar Soderberg,1912,Swedish,Swedish
+1471,The Emperor of Portugallia,Selma Lagerlöf,1914,Swedish,Swedish
+1473,Doctor Glas,Hjalmar Soderberg,1905,Swedish,Swedish
+1478,A Modest Proposal and Other Satirical Works,Jonathan Swift,1729,Irish,English
+1477,Pilgrimage,Dorothy Richardson,1915,British,English
+1480,The Tragical History of Doctor Faustus,Christopher Marlowe,1604,British,English
+1479,The Unfortunate Traveller,Thomas Nashe,1594,British,English
+1484,The Artamonov Business,Maxim Gorky,1925,Russian,Russian
+1485,As A Man Grows Older,Italo Svevo,1898,Italian,Italian
+1487,Storm of Steel,Ernst Jünger,1920,German,German
+1488,Camilla,Fanny Burney,1796,British,English
+1492,Mencius,Mencius,-300,Chinese,Classical chinese
+1493,The Kreutzer Sonata,Leo Tolstoy,1889,Russian,Russian
+1494,A Woman's Life,Guy de Maupassant,1883,French,French
+1495,The Tale of the Bamboo Cutter,Unknown,900,Japanese,Japanese
+1496,The Pit and the Pendulum,Edgar Allan Poe,1842,American,English
+1497,Martín Fierro,José Hernández,1872,Argentinian,Spanish
+1499,Le Diable au corps,Raymond Radiguet,1923,French,French
+1504,A Little Princess,Frances Hodgson Burnett,1905,British,English
+1505,Fanny Hill,John Cleland,1748,British,English
+1506,The Female Quixote,Charlotte Lennox,1752,British,English
+1509,Tristan,Gottfried von Strassburg,1210,German,Middle high german
+1510,The Black Spider,Jeremias Gotthelf,1842,Swiss,German
+1521,The Seagull,Anton Chekhov,1896,Russian,Russian
+1515,The Autobiography of Benjamin Franklin,Benjamin Franklin,1791,American,English
+1518,The Consolation of Philosophy,Boethius,524,Roman,Latin
+1520,The Magnificent Ambersons,Booth Tarkington,1918,American,English
+1531,The Principia Mathematica,"Alfred North Whitehead, Bertrand Russell",1910,British,English
+1532,The Complete Poems Of San Juan De La Cruz,San Juan de la Cruz,1618,Spanish,Spanish
+1538,Fragments,Heraclitus,-500,Greek,Ancient greek
+1549,The Works of Max Beerbohm,Max Beerbohm,1902,British,English
+1549,Lad,Albert Payson Terhune,1919,American,English
+1555,The Works of Moliere,Molière,1666,French,French
+1556,My First Summer in the Sierra,John Muir,1911,American,English
+1563,My Childhood,Maxim Gorky,1913,Russian,Russian
+1564,Professor Unrat,Heinrich Mann,1905,German,German
+1562,Treatise on Radioactivity,Marie Curie,1910,French,French
+1578,The Queen's Tiara,Carl Jonas Love Almqvist,1834,Swedish,Swedish
+1579,The Lion of Flanders,Hendrik Conscience,1838,Belgian,Dutch
+1583,The Getting Of Wisdom,Henry Handel Richardson,1910,Australian,English
+1588,Marius the Epicurean,Walter Pater,1885,British,English
+1591,The Heart Of Midlothian,Sir Walter Scott,1818,Scottish,English
+1603,Carmen,Prosper Mérimée,1845,French,French
+1616,Eclogues,Virgil,-37,Latin,Latin
+1617,Satyricon,Petronius,65,Roman,Latin
+1621,The Velveteen Rabbit,Margery Williams,1922,British,English
+1624,Robert Browning's Poetry,Robert Browning,1833,British,English
+1624,Selected Poems of Lord Byron,Lord Byron,1800,British,English
+1630,The Shadow Line,Joseph Conrad,1917,British,English
+1630,Poems of Góngora,Luis de Góngora,1601,Spanish,Spanish
+1630,Bohemian Lights,Ramón del Valle-Inclán,1920,Spanish,Spanish
+1630,Selected Poetry Of Francisco De Quevedo,Francisco de Quevedo,1648,Spanish,Spanish
+1645,The Captain's Daughter,Alexander Pushkin,1836,Russian,Russian
+1646,Rameau's Nephew,Denis Diderot,1761,French,French
+1647,The Complete John Silence Stories,Algernon Blackwood,1908,British,English
+1649,Prufrock and Other Observations,T. S. Eliot,1917,British,English
+1651,Resurrection,Leo Tolstoy,1899,Russian,Russian
+1665,Michael Kohlhaas,Heinrich von Kleist,1810,German,German
+1657,The Devil's Pool,George Sand,1846,French,French
+1657,Indian Summer,Adalbert Stifter,1857,Austrian,German
+1657,Phineas Finn,Anthony Trollope,1869,British,English
+1665,Pierre et Jean,Guy de Maupassant,1888,French,French
+1665,The Enormous Room,E. E. Cummings,1922,American,English
+1669,Gösta Berling's Saga,Selma Lagerlöf,1891,Swedish,Swedish
+1669,Under Fire,Henri Barbusse,1916,French,French
+1669,Life of Christ,Giovanni Papini,1921,Italian,Italian
+1677,"Germany, a Winter Tale",Heinrich Heine,1844,German,German
+1684,The White Devil,John Webster,1612,British,English
+1686,Tirant Lo Blanc,Unknown,1490,Spanish,Catalan
+1686,Amadis of Gaul,Garci R. de Montalvo,1508,Spanish,Spanish
+1686,"Thomas of Reading, Or, The Sixe Worthie Yeomen of the West",Thomas Deloney,1599,British,English
+1686,The Trials of Persiles and Sigismunda,Miguel de Cervantes,1617,Spanish,Spanish
+1686,"Love in Excess; or, The Fatal Enquiry",Eliza Haywood,1719,British,English
+1686,Memoirs of Martinus Scriblerus,Scriblerus Club,1741,British,English
+1686,Reveries of a Solitary Walker,Jean-Jacques Rousseau,1782,French,French
+1686,Heinrich of Ofterdingen,Novalis,1802,German,German
+1686,"The Water-Babies, A Fairy Tale for a Land Baby",Charles Kingsley,1863,British,English
+1686,King Lear of the Steppes,Ivan Turgenev,1870,Russian,Russian
+1686,Torrents of Spring,Ivan Turgenev,1872,Russian,Russian
+1686,Pepita Jimenez,Juan Valera y Alcalá-Galiano,1874,Spanish,Spanish
+1686,By the Open Sea,August Strindberg,1890,Swedish,Swedish
+1686,The Viceroys,Federico De Roberto,1894,Italian,Italian
+1686,Compassion,Benito Pérez Galdós,1897,Spanish,Spanish
+1686,Pharaoh,Bolesław Prus,1895,Polish,Polish
+1686,Sandokan,Emilio Salgari,1883,Italian,Italian
+1686,None but the Brave,Arthur Schnitzler,1895,Austrian,German
+1686,Memoirs of My Nervous Illness,Daniel Paul Schreber,1903,German,German
+1686,Hell,Henri Barbusse,1908,French,French
+1686,Impressions of Africa,Raymond Roussel,1910,French,French
+1686,Tarr,Wyndham Lewis,1918,British,English
+1686,Life and Death of Harriett Frean,May Sinclair,1922,British,English
+1686,Amok,Stefan Zweig,1922,Austrian,German
+1686,The Green Hat,Michael Arlen,1924,British,English
+1686,Asphodel,Hilda Doolittle,1921,American,English
+1686,The Child Of Pleasure,Gabriele D'Annunzio,1889,Italian,Italian
+1747,The Mysterious Affair at Styles,Agatha Christie,1920,British,English
+1758,The Confidence Man,Herman Melville,1857,American,English
+1765,The Jewel Of Seven Stars,Bram Stoker,1903,British,English
+1769,Le Mariage De Figaro,Pierre-Augustin Caron de Beaumarchais,1784,French,French
+1770,Overcoat,Nikolai Gogol,1842,Russian,Russian
+1773,Winnetou,Karl May,1893,German,German
+1783,Metaphysics,Aristotle,-347,Greek,Ancient greek
+1788,A General Introduction to Psycho-Analysis,Sigmund Freud,1920,Austrian,German
+1789,Wry-Blue Loves,Tristan Corbière,1873,French,French
+1790,King Ubu,Alfred Jarry,1896,French,French
+1800,The Story Of An African Farm,Olive Schreiner,1883,South African,English
+1802,The Poems of John Keats,John Keats,1817,British,English
+1810,Gospels,Unknown,70,Multiple,Greek
+1814,Les Contemplations,Victor Hugo,1856,French,French
+1817,The Everlasting Man,G. K. Chesterton,1925,British,English
+1820,Gijsbrecht Van Aemstel,Joost van den Vondel,1637,Dutch,Dutch
+1826,O Pioneers!,Willa Cather,1913,American,English
+1822,The Poetry of Alexander Pushkin,Alexander Pushkin,1836,Russian,Russian
+1823,Brief Lives,John Aubrey,1898,British,English
+1829,Up from Slavery,Booker T. Washington,1901,American,English
+1827,Hadji Murat,Leo Tolstoy,1912,Russian,Russian
+1835,Studies in the Psychology of Sex,Havelock Ellis,1897,British,English
+1834,"Abraham Lincoln, Speeches And Letters",Abraham Lincoln,1907,American,English
+1840,The Yellow Wallpaper,Charlotte Perkins Gilman,1892,American,English
+1850,Zuleika Dobson,Max Beerbohm,1911,British,English
+1859,The Collected Works of St. John of the Cross,St. John of the Cross,1578,Spanish,Spanish
+1860,The Little Demon,Fedor Sologub,1907,Russian,Russian
+1865,The Fortunes Of Richard Mahony,Henry Handel Richardson,1917,Australian,English
+1867,Lorna Doone,R. D. Blackmore,1869,British,English
+1871,The Egoist,George Meredith,1879,British,English
+1873,In the American Grain,William Carlos Williams,1925,American,English
+1877,Common Sense,Thomas Paine,1776,British,English
+1882,The Demon,Mikhail Lermontov,1829,Russian,Russian
+1886,Democracy and Leadership,Irving Babbitt,1924,American,English
+1893,Reflections of a Russian Statesman,Konstantin P. Pobedonostsev,1898,Russian,Russian
+1892,The Steppe,Anton Chekhov,1888,Russian,Russian
+1895,Childhood,Leo Tolstoy,1852,Russian,Russian
+1897,Poor Folk,Fyodor Dostoevsky,1846,Russian,Russian
+1899,Mont-Saint-Michel and Chartres,Henry Adams,1904,American,English
+1906,Exemplary Stories,Miguel de Cervantes,1613,Spanish,Spanish
+1909,La légende des siècles,Victor Hugo,1859,French,French
+1917,A Cloud In Trousers,Vladimir Mayakovsky,1915,Russian,Russian
+1920,I And My Chimney,Herman Melville,1856,American,English
+1920,Life Of Quintus Fixlein,Jean-Paul Richter,1796,German,German
+1929,Trojan Women,Euripides,-415,Greek,Ancient greek
+1930,Daisy Miller,Henry James,1878,American,English
+1941,The Compleat Angler,Izaak Walton,1653,British,English
+1944,Phaedrus,Plato,-370,Greek,Ancient greek
+1955,The Poems of Francois Villon,François Villon,1489,French,Middle french
+1957,The Bedbug And Selected Poetry,Vladimir Mayakovsky,1920,Russian,Russian
+1956,Tractatus Theologico Politicus,Baruch de Spinoza,1670,Dutch,Latin
+1959,The Prairie,James Fenimore Cooper,1827,American,English
+1961,The White Guard,Mikhail Bulgakov,1925,Russian,Russian
+1968,The Prince and the Pauper,Mark Twain,1881,American,English
+1970,Nobody's Boy,Hector Malot,1878,French,French
+1980,Stories,Heinrich von Kleist,1810,German,German
+1980,Lenz,Georg Buchner,1836,German,German
+1982,Memoirs Of A Revolutionist,Vera Figner,1920,Russian,Russian
+1982,"Oh, These Times",Catherine the Great,1790,Russian,Unknown
+1982,On Sunday Morning She Gathered Herbs,Olha Kobylianska,1909,Ukrainian,Ukrainian
+1982,The Memoirs Of Princess Dashkova,Ekaterina Romanovna Dashkova,1840,Russian,Russian
+1982,Ethiopia Unbound,J. E. Casely Hayford,1911,Ghanaian,English
+1982,The History Of The Yorubas,Reverend Samuel Johnson,1921,Nigerian,English
+1982,The Soul of the White Ant,Eugène N. Marais,1925,South African,Afrikaans
+1982,Native Life In South Africa,Sol Plaatje,1916,South African,English
+1982,The Leavenworth Case,Anna Katharine Green,1878,American,English
+2009,Studies In The History Of The Renaissance,Walter Pater,1873,British,English
+2017,Bread Givers,Anzia Yezierska,1925,American,English
+2018,A Connecticut Yankee In King Arthur's Court,Mark Twain,1889,American,English
+2022,The Master of Ballantrae,Robert Louis Stevenson,1889,British,English
+2024,Collected Poems,Arthur Rimbaud,1898,French,French
+2026,Memoirs of Louis XIV,Louis de Rouvroy Saint-Simon (duc de),1740,French,French
+2027,"Essays, First And Second Series",Ralph Waldo Emerson,1841,American,English
+2031,Memoirs of Cardinal De Retz,Cardinal de Retz,1717,French,French
+2033,The Government Inspector,Nikolai Gogol,1836,Russian,Russian
+2038,Best Ghost Stories Of Algernon Blackwood,Algernon Blackwood,1907,British,English
+2035,Antony And Cleopatra,William Shakespeare,1606,British,English
+2041,Golem,Gustav Meyrink,1915,Austrian,German
+2042,Curial e Güelfa,Anonymous,1450,Spanish,Catalan
+2044,The Complete Plays of Jean Racine,Jean Racine,1677,French,French
+2047,The Plum in the Golden Vase,Anonymous,1610,Chinese,Chinese
+2056,Stanzas about the Death of his Father,Jorge Manrique,1476,Spanish,Spanish
+2060,Wieland,Charles Brockden Brown,1798,American,English
+2061,A Study In Scarlet,Arthur Conan Doyle,1887,British,English
+2063,The Complete Fairy Tales of Charles Perrault,Charles Perrault,1697,French,French
+2065,Song Of Myself,Walt Whitman,1855,American,English
+2066,The Adventures Of Pinocchio,Carlo Collodi,1883,Italian,Italian
+2068,The Belkin Tales,Alexander Pushkin,1831,Russian,Russian
+2069,The Way of a Pilgrim,Anonymous,1884,Russian,Russian
+2073,The History of Mr. Polly,H. G. Wells,1910,British,English
+2078,Guzmán de Alfarache,Mateo Alemán,1599,Spanish,Spanish
+2078,Poems,Miguel de Unamuno,1907,Spanish,Spanish
+2080,Plays,Pierre Corneille,1641,French,French
+2084,Scouting For Boys,Robert Baden-Powell,1908,British,English
+2085,Utopia,Thomas More,1516,British,Latin
+2088,Poetry,Quintus Lutatius Catulus,-89,Roman,Latin
+2094,The Twelve,Alexander Blok,1918,Russian,Russian
+2095,Pragmatism,William James,1907,American,English
+2097,Histories,Cornelius Tacitus,100,Roman,Latin
+2098,Boris Godunov,Alexander Pushkin,1831,Russian,Russian
+2109,The Story of My Life,Helen Keller,1903,American,English
+2101,Woe From Wit,Alexander Griboyedov,1825,Russian,Russian
+2107,Three Essays on the Theory of Sexuality,Sigmund Freud,1905,Austrian,German
+2108,The Rime of the Ancient Mariner,Samuel Taylor Coleridge,1798,British,English
+2111,My Past And Thoughts,Alexander Herzen,1861,Russian,Russian
+2117,The Ring And The Book,Robert Browning,1868,British,English
+2119,The History Of A Town,Mikhail Saltykov-Shchedrin,1870,Russian,Russian
+2133,"The Poems Of John Wilmot, Earl Of Rochester",John Wilmot,1680,British,English
+2131,Essays And Criticism,William Hazlitt,1823,British,English
+2136,Selected Poems,Pierre Ronsard,1501,French,French
+2144,For The Term Of His Natural Life,Marcus Clarke,1874,Australian,English
+2208,The Painter Of Modern Life,Charles Baudelaire,1863,French,French
+2208,Beethoven's Letters,Ludwig van Beethoven,1866,German,German
+2208,Eothen,Alexander William Kinglake,1844,British,English
+2144,Το φως που καίει,Kostas Varnalis,1922,Greek,Greek
+2144,Modern Greek Stories,Georgios Vizyinos,1883,Greek,Greek
+2144,My Mother's Sin,Georgios Vizyinos,1883,Greek,Greek
+2144,The Only Journey Of His Life,Georgios Vizyinos,1887,Greek,Greek
+2144,Η Τιμη Και Το Χρημα,Konstantinos Theotokis,1914,Greek,Greek
+2144,Odes,Andreas Kalvos,1824,Greek,Greek
+2144,The Beggar,Andreas Karkavitsas,1896,Greek,Greek
+2144,The Poems Of Kostas Karyotakis,Kostas Karyotakis,1921,Greek,Greek
+2144,Νηπενθή,Kostas Karyotakis,1921,Greek,Greek
+2144,The Memoirs Of General Makriyannis,Makriyannis,1907,Greek,Greek
+2144,Life In The Tomb,Stratis Myrivilis,1924,Greek,Greek
+2144,The Twelve Lays Of The Gypsy,Kostis Palamas,1907,Greek,Greek
+2144,The Murderess,Alexandros Papadiamantis,1903,Greek,Greek
+2144,The Papess Joanne,Emmanuel Rhoides,1866,Greek,Greek
+2144,Η Γυναίκα της Ζακύνθου,Dionysios Solomos,1829,Greek,Greek
+2144,The Complete Works,Dionysios Solomos,1818,Greek,Greek
+2144,The Free Besieged,Dionysios Solomos,1825,Greek,Greek
+2144,Η Κερένια Κούκλα,Konstantinos Christomanos,1899,Greek,Greek
+2144,Το Ταξίδι Μου,Yiannis Psycharis,1888,Greek,Greek
+2212,Selections From The Tatler And The Spectator,"Joseph Addison, Richard Steele",1804,British,English
+2212,Poems Of George Herbert,George Herbert,1633,British,English
+2212,Memoirs Of The Author Of A Vindication Of The Rights Of Woman,William Godwin,1798,British,English
+2212,Life Of John Sterling,Thomas Carlyle,1851,British,English
+2212,The Gentle Art Of Making Enemies,James McNeill Whistler,1890,American,English
+2212,The Voysey Inheritance,Harley Granville Barker,1905,British,English
+2212,The Madras House,Harley Granville Barker,1910,British,English
+2212,Trifles,Susan Glaspell,1916,American,English
+2212,Desire Under The Elms,Eugene O'Neill,1924,American,English
+2222,Poems of Friedrich Hölderlin,Friedrich Holderlin,1800,German,German
+2223,The Bronze Horseman,Alexander Pushkin,1837,Russian,Russian
+2228,Daughters of Fire,Gerard de Nerval,1854,French,French
+2229,Diary Of A Madman,Nikolai Gogol,1835,Russian,Russian
+2232,The Little Tragedies,Alexander Pushkin,1832,Russian,Russian
+2234,The Mystery Of Edwin Drood,Charles Dickens,1870,British,English
+2236,A Voice From The South,Anna Julia Cooper,1892,American,English
+2241,Poor Liza,Nikolay Karamzin,1792,Russian,Russian
+2255,Nicholas Nickleby,Charles Dickens,1839,British,English
+2252,The Lower Depths,Maxim Gorky,1902,Russian,Russian
+2257,Les Tragiques,Agrippa d'Aubigné,1616,French,French
+2258,Nevsky Prospekt,Nikolai Gogol,1835,Russian,Russian
+2262,The Tale Of Cross Eyed Lefty From Tula And The Steel Flea,Nikolai Leskov,1881,Russian,Russian
+2264,Maxims,François duc de La Rochefoucauld,1665,French,French
+2271,Les Destinées,Alfred de Vigny,1864,French,French
+2278,The Complete Writings of Alfred de Musset,Alfred de Musset,1907,French,French
+2283,The Frontier in American History,Frederick J. Turner,1920,American,English
+2282,Les Caractères,Jean de La Bruyère,1688,French,French
+2284,Lettres de madame de Sévigné,Marie de Rabutin-Chantal marquise de Sévigné,1671,French,French
+2289,The Mysterious Portrait,Nikolai Gogol,1835,Ukrainian,Russian
+2290,Just William,Richmal Crompton,1922,British,English
+2294,The Provincial Letters,Blaise Pascal,1656,French,French
+2297,Lady Macbeth Of Mtsensk,Nikolai Leskov,1865,Russian,Russian
+2303,The Tale Of Igor's Campaign,Unknown,1187,Russian,Old east slavic
+2304,Correspondence,Voltaire,1751,French,French
+2306,Scenes From The Past,Alexander Sukhovo-Kobylin,1869,Russian,Russian
+2307,A Nobleman's Nest,Ivan Turgenev,1859,Russian,Russian
+2312,The Old World Landowners,Nikolai Gogol,1835,Ukrainian,Russian
+2315,Philosophical Writings,Novalis,1798,German,German
+2317,Sevastopol Sketches,Leo Tolstoy,1855,Russian,Russian
+2318,Dark Night of the Soul,Jean de la Croix,1578,Spanish,Spanish
+2319,Who Can Be Happy And Free In Russia?,Nikolay Nekrasov,1870,Russian,Russian
+2320,Zangezi,Velimir Khlebnikov,1922,Russian,Russian
+2321,The Noise Of Time,Osip Mandelstam,1925,Russian,Russian
+2322,The Blue Book,Mikhail Zoshchenko,1923,Russian,Russian
+2323,Journey From St. Petersburg To Moscow,Alexander Radishchev,1790,Russian,Russian
+2324,The Gypsies,Alexander Pushkin,1827,Russian,Russian
+2325,In The Ravine,Anton Chekhov,1900,Russian,Russian
+2326,Fallen Leaves,Vasily Rozanov,1913,Russian,Russian
+2328,Poem Of The Mountain,Marina Tsvetayeva,1924,Russian,Russian
+2329,Massâlik Al Jinân,Cheikh Ahmadou Bamba,1895,Senegalese,Arabic
+2342,Penguin Island,Anatole France,1908,French,French
+2344,The Railway Children,Edith Nesbit,1906,British,English
+2367,Principia Ethica,George Edward Moore,1903,British,English
+2370,I Ching,China,-1000,Chinese,Chinese
+2371,First Love,Ivan Turgenev,1860,Russian,Russian
+2379,Flappers And Philosophers,F. Scott Fitzgerald,1920,American,English
+2384,Green Mansions,W. H. Hudson,1904,British,English
+2386,Five Children And It,Edith Nesbit,1902,British,English
+2392,Der Judenstaat,Theodor Herzl,1896,Austro-Hungarian,German
+2391,The Spirit Of The Laws,Montesquieu,1748,French,French
+2393,"The Boats Of The ""Glen Carrig""",William Hope Hodgson,1907,British,English
+2393,Carnacki The Ghost Finder,William Hope Hodgson,1913,British,English
+2396,Niels Lyhne,Jens Peter Jacobson,1880,Danish,Danish
+2403,A Midsummer Night's Dream,William Shakespeare,1595,British,English
+2407,The City And The Mountains,Eça de Queirós,1901,Portuguese,Portuguese
+2412,The Voyage of the Beagle,Charles Darwin,1839,British,English
+2418,The American Language,H. L. Mencken,1919,American,English
+2426,The Heptameron,Marguerite de Navarre,1558,French,French
+2431,As You Like it,William Shakespeare,1600,British,English
+2447,Greenmantle,John Buchan,1916,British,English
+2451,The Prose Of The Trans Siberian,Blaise Cendrars,1913,French,French
+2455,The Four Just Men,Edgar Wallace,1905,British,English
+2460,Lavengro,George Borrow,1851,British,English
+2463,Daddy Long Legs,Jean Webster,1912,American,English
+2474,Old People And The Things That Pass,Louis Couperus,1906,Dutch,Dutch
+2483,Letters On England,Voltaire,1734,French,French
+2487,Hippolytus,Euripides,-428,Greek,Ancient greek
+2488,Aline,Charles Ferdinand Ramuz,1905,French,French
+2508,"The Sketch Book Of Geoffrey Crayon, Gent.",Washington Irving,1819,American,English
+2514,Tender Buttons,Gertrude Stein,1914,American,English
+2513,Twenty Years at Hull-House,Jane Addams,1910,American,English
+2516,Mary Barton,Elizabeth Gaskell,1848,British,English
+2518,Decline of the West,Oswald Spengler,1918,German,German
+2517,The Travels of Ibn Battutah,Ibn Battúta,1355,Moroccan,Arabic
+2527,Three plays,Paul Claudel,1912,French,French
+2524,Either Or,Soren Kierkegaard,1843,Danish,Danish
+2529,"Abu Telfan, Return from the Mountains of the Moon",Wilhelm Karl Raabe,1867,German,German
+2544,The Wild Swans at Coole,William Butler Yeats,1917,Irish,English
+2545,The History Of England,Thomas Babington Macaulay,1848,British,English
+2545,The Lives Of The Poets,Samuel Johnson,1779,British,English
+2545,The Innocents Abroad,Mark Twain,1869,American,English
+2548,Towards A New Architecture,Le Corbusier,1923,French,French
+2552,The Problems of Philosophy,Bertrand Russell,1912,British,English
+2557,The Autobiography of Mark Twain,Mark Twain,1924,American,English
+2569,Shahnameh,Ferdowsi,1010,Iranian,Persian
+2570,Au Bonheur Des Dames,Émile Zola,1883,French,French
+2588,The Ripening Seed,Colette,1923,French,French
+2597,Poems Of Louis Aragon,Louis Aragon,1920,French,French
+2598,The Age of Reason,Thomas Paine,1794,British,English
+2604,The Jungle Book,Rudyard Kipling,1894,British,English
+2613,My Friends,Emmanuel Bove,1924,French,French
+2623,The Hill Of Dreams,Arthur Machen,1907,British,English
+2621,The Night Land,William Hope Hodgson,1912,British,English
+2636,On Self Reliance,Ralph Waldo Emerson,1841,American,English
+2663,Phèdre,Jean Racine,1677,French,French
+2667,An Essay on the Principle of Population,Thomas Robert Malthus,1798,British,English
+2677,The Titan,Theodore Dreiser,1914,American,English
+2686,Arrowsmith,Sinclair Lewis,1925,American,English
+2689,In Search Of The Castaways,Jules Verne,1867,French,French
+2734,Ozma Of Oz,L. Frank Baum,1907,American,English
+2702,Parzival,Wolfram Eschenbach,1200,German,Middle high german
+2703,The Tales Of Hoffmann,E. T. A. Hoffmann,1814,German,German
+2700,The Poems Of Gerard Manley Hopkins,Gerald Manley Hopkins,1918,British,English
+2709,ḥayy Ibn Yaqẓān,Ibn Tufayl,1170,Arabic,Arabic
+2713,Discourses Of Epictetus,Epictetus,-108,Greek,Greek
+2731,Daphnis and Chloe,Longus,-200,Greek,Ancient greek
+2729,The Kalevala,Elias Lönnrot,1835,Finnish,Finnish
+2717,Renascence and Other Poems,Edna St. Vincent Millay,1917,American,English
+2717,The Life of the Bee,Maurice Maeterlinck,1901,Belgian,French
+2717,The Battle with the Slum,Jacob A. Riis,1902,Danish,English
+2717,The House on Henry Street,Lillian D. Wald,1915,American,English
+2717,Woman Suffrage and Politics,Carrie Chapman Catt,1923,American,English
+2717,Armenian Atrocities,Arnold J. Toynbee,1915,British,English
+2717,War Poems of Siegfried Sassoon,Siegfried Sassoon,1919,British,English
+2717,"Etiquette in Society, in Business, in Politics and at Home",Emily Post,1922,American,English
+2732,The Lurking Fear And Other Stories,H. P. Lovecraft,1923,American,English
+2730,Book Of The Dead,"John Skipp , Craig Spector",-1550,Multiple,English
+2744,Mountain Interval,Robert Frost,1916,American,English
+2745,North Of Boston,Robert Frost,1914,American,English
+2747,Logical Investigations,Edmund Husserl,1900,German,German
+2748,The Old English Baron,Clara Reeve,1777,British,English
+2753,The Rector's Daughter,F. M. Mayor,1924,British,English
+2763,Cinderella,Unknown,23,Multiple,French
+2768,The Butterfly Lovers,Unknown,-389,Chinese,Chinese
+2782,Calligrammes,Guillaume Apollinaire,1918,French,French
+2799,Before The Law,Franz Kafka,1915,Czech,German
+2799,Il Canzoniere,Francesco Petrarca,1372,Italian,Italian
+2799,Kebra Nagast,Unknown,1350,Multiple,Ge'ez
+2799,The Story Of The Rainbow Serpent,Unknown,-2000,Australian,Unknown
+2799,The Eloquent Peasant,Unknown,-1850,Egyptian,Ancient egyptian
+2799,The Emperor's New Clothes,Hans Christian Andersen,1837,Danish,Danish
+2799,Poems Of Wine And Revelry,Abu Nuwas,800,Multiple,Arabic
+2799,The Raven,Edgar Allan Poe,1845,American,English
+2815,Handley Cross,R. S. Surtees,1843,British,English
+2828,Rebellion In The Backlands,Euclides da Cunha,1902,Brazilian,Portuguese
+2830,The Witness For The Prosecution,Agatha Christie,1925,British,English
+2836,The Faerie Queene,Edmund Spenser,1590,British,English
+2843,A Princess Of Mars,Edgar Rice Burroughs,1912,American,English
+2851,The Mystery Of The Yellow Room,Gaston Leroux,1907,French,French
+2855,The World as Will and Idea,Arthur Schopenhauer,1818,German,German
+2858,On Growth and Form,D'Arcy Wentworth Thompson,1917,British,English
+2859,The City of God,Augustine,413,Roman,Latin
+2861,Little Dorrit,Charles Dickens,1855,British,English
+2868,The Book of Songs,China,-600,Chinese,Classical chinese
+2871,The Garden Party And Other Stories,Katherine Mansfield,1922,New Zealand,English
+2883,The Cask,Freeman Wills Crofts,1920,British,English
+2890,Germania,Cornelius Tacitus,98,Roman,Latin
+2892,The 18th Brumaire of Louis Bonaparte,Karl Marx,1852,German,German
+2891,The Loyal Subject,Heinrich Mann,1918,German,German
+2888,Blue Bird,Maurice Maeterlinck,1908,Belgian,French
+2902,Hard Times,Charles Dickens,1854,British,English
+2904,Lyrical Ballads,"William Wordsworth, Samuel Taylor Coleridge",1798,British,English
+2920,Siebenkäs,Jean Paul,1796,German,German
+2920,The Waste Books,Georg Christoph Lichtenberg,1770,German,German
+2920,The Treasure Chest,Johann Peter Hebel,1811,German,German
+2920,Stories of Adalbert Stifter,Adalbert Stifter,1801,Austrian,German
+2920,"Human, All Too Human",Friedrich Nietzsche,1878,German,German
+2920,The Son of a Servant,August Strindberg,1886,Swedish,Swedish
+2920,My Book House,Olive Beaupré Miller,1920,American,English
+2907,The Romance of the Rose,Guillaume (de Lorris),1230,French,Old french
+2907,The Twilight of the Idols and The Antichrist,Friedrich Nietzsche,1888,German,German
+2907,Letters from an American Farmer,J. Crevecoeur,1782,American,English
+2907,The Collected Songs of Cold Mountain,Han Shan,600,Chinese,Classical chinese
+2907,"The Tootinameh; Or, Tales of a Parrot","India, Iran",1300,Indian,Persian
+2941,The Circular Staircase,Mary Roberts Rinehart,1908,American,English
+2920,Perpetual Peace,Immanuel Kant,1795,German,German
+2920,Anti Goeze,Gotthold Ephraim Lessing,1778,German,German
+2920,The Life Story And Real Adventures Of The Poor Man Of Toggenburg,Ulrich Bräker,1789,Swiss,German
+2920,On The Aesthetic Education Of Man,Friedrich Schiller,1794,German,German
+2953,Wonderful Adventures of Mrs. Seacole in Many Lands,Mary Seacole,1857,Jamaican,English
+2958,The Red Redmaynes,Eden Phillpotts,1922,British,English
+2959,Romola,George Eliot,1863,British,English
+2960,The Confessions Of Lady Nijo,Lady Nijo,1307,Japanese,Japanese
+2962,Odes,John Keats,1820,British,English
+2976,The Wild Ass's Skin,Honoré de Balzac,1831,French,French
+2992,The Lamplighter,Maria Susanna Cummins,1854,American,English
+3019,On the Revolutions of the Heavenly Spheres,Nicolaus Copernicus,1543,Polish,Latin
+3024,Abel Sánchez,Miguel de Unamuno,1917,Spanish,Spanish
+3031,The Hollow Needle,Maurice Leblanc,1909,French,French
+3033,The Promise of American Life,Herbert Croly,1909,American,English
+3034,Moonfleet,J. Meade Faulkner,1898,British,English
+3034,Nine Unlikely Tales,E. Nesbit,1901,British,English
+3034,The Man Who Would Be King,Rudyard Kipling,1888,British,English
+3034,The Young Visiters,Daisy Ashford,1919,British,English
+3034,Clotel,William Wells Brown,1853,American,English
+3034,"Felix Holt, The Radical",George Eliot,1866,French,English
+3034,L'argent,Émile Zola,1891,French,French
+3034,Love Among The Chickens,P. G. Wodehouse,1906,British,English
+3075,The Vampyre,John William Polidori,1819,British,English
+3089,The Works Of Thomas Lovell Beddoes,Thomas Lovell Beddoes,1851,British,English
+3109,The Great God Pan,Arthur Machen,1894,British,English
+3114,Encyclopédie,Denis Diderot,1751,French,French
+3118,The Empty House And Other Ghost Stories,Algernon Blackwood,1906,British,English
+3118,The Riddle,Walter de la Mare,1923,British,English
+3122,The Blazing World,Margaret Cavendish,1666,British,English
+3130,Alraune,Hanns Heinz Ewers,1911,German,German
+3130,The Room In The Tower,E. F. Benson,1912,British,English
+3130,The Listener And Other Stories,Algernon Blackwood,1907,British,English
+3143,Autobiography,Benvenuto Cellini,1728,Italian,Italian
+3148,Travels in Arabia Deserta,Charles M. Doughty,1888,British,English
+3149,Last Poems,A. E. Housman,1922,British,English
+3159,The Ordeal Of Richard Feverel,George Meredith,1859,British,English
+3165,The Ghost Pirates,William Hope Hodgson,1909,British,English
+3165,The Haunters And The Haunted,Edward Bulwer-Lytton,1859,British,English
+3165,The Sorcerer's Apprentice,Hanns Heinz Ewers,1910,German,German
+3165,Tales Of Wonder,Matthew Lewis,1801,British,English
+3183,Platform Sutra,Huineng,713,Chinese,Chinese
+3184,The Revenger's Tragedy,Thomas Middleton,1606,British,English
+3193,The Blithedale Romance,Nathaniel Hawthorne,1852,American,English
+3197,Wandering On The Way,"Zhuangzi, Victor H. Mair",-369,Chinese,Classical chinese
+3199,The Löwensköld Ring,Selma Lagerlöf,1925,Swedish,Swedish
+3208,"Longsword, Earl Of Salisbury",Thomas Leland,1762,Irish,English
+3208,Zofloya,Charlotte Dacre,1806,British,English
+3208,The Return,Walter de la Mare,1910,British,English
+3215,Tono Bungay,H. G. Wells,1909,British,English
+3223,The Merry Adventures of Robin Hood,Howard Pyle,1883,American,English
+3235,Heartbreak House,George Bernard Shaw,1919,British,English
+3236,Juno And The Paycock,Sean O'Casey,1924,Irish,English
+3242,Best Ghost Stories,Sheridan Le Fanu,1923,Irish,English
+3242,Beyond The Wall Of Sleep,H. P. Lovecraft,1919,American,English
+3242,Dracula's Guest,Bram Stoker,1914,British,English
+3242,Wandering Ghosts,F. Marion Crawford,1911,American,English
+3242,Tales Of A Traveller,Washington Irving,1824,American,English
+3242,Visible And Invisible,E. F. Benson,1923,British,English
+3255,The Traveller,Oliver Goldsmith,1764,Irish,English
+3264,Six Records Of A Floating Life,Shen Fu,1809,Chinese,Chinese
+3268,Reynard the Fox,Unknown,1479,Multiple,Middle dutch

@@ -1,0 +1,501 @@
+﻿Position,Id,Title,Authors,Published Date,Country,Original Language,Page Range,Word Count,Global Rank,Global Score
+1,38,The Great Gatsby,F. Scott Fitzgerald,1925,American,English,47-180,47000,1,6642
+2,122,Ulysses,James Joyce,1922,Irish,English,730-1000,265222,2,6473
+3,225,In Search of Lost Time,Marcel Proust,1913,French,French,3000-4300,1200000,3,6331
+4,266,One Hundred Years of Solitude,Gabriel García Márquez,1967,Colombian,Spanish,300-500,144000,4,5822
+5,19,The Catcher in the Rye,J. D. Salinger,1951,American,English,220-277,73440,5,5685
+6,50,Lolita,Vladimir Nabokov,1955,American,English,300-400,112473,6,5312
+7,64,Nineteen Eighty Four,George Orwell,1949,British,English,300-400,88942,7,5243
+8,208,Moby-Dick,Herman Melville,1851,American,English,600-700,212000,8,5055
+9,213,Anna Karenina,Leo Tolstoy,1877,Russian,Russian,800-1000,349000,9,5053
+10,190,Don Quixote,Miguel de Cervantes,1605,Spanish,Spanish,800-1000,500000,10,4800
+11,108,Wuthering Heights,Emily Brontë,1847,British,English,300-400,107945,11,4793
+12,116,War and Peace,Leo Tolstoy,1869,Russian,Russian,1225-1500,587287,12,4677
+13,91,To Kill a Mockingbird,Harper Lee,1960,American,English,281-500,100388,13,4632
+14,329,Crime and Punishment,Fyodor Dostoevsky,1866,Russian,Russian,430-600,211591,14,4535
+15,102,Pride and Prejudice,Jane Austen,1813,British,English,432,122189,15,4508
+16,52,The Lord of the Rings,J. R. R. Tolkien,1954,British,English,1000-1500,506325,16,4359
+17,85,The Sound and the Fury,William Faulkner,1929,American,English,320,97000,17,4344
+18,322,The Stranger,Albert Camus,1942,French,French,100-200,35000,18,4257
+19,408,The Odyssey,Homer,-740,Greek,Ancient greek,300-500,120000,19,4162
+20,215,The Brothers Karamazov,Fyodor Dostoevsky,1880,Russian,Russian,700-800,364000,20,4125
+21,209,Madame Bovary,Gustave Flaubert,1857,French,French,300-450,117000,21,4089
+22,135,Heart of Darkness,Joseph Conrad,1899,British,English,70-200,38000,22,4001
+23,410,Middlemarch,George Eliot,1871,British,English,700-900,310000,23,3959
+24,92,To the Lighthouse,Virginia Woolf,1927,British,English,200-300,70000,24,3907
+25,211,Alice's Adventures in Wonderland,Lewis Carroll,1865,British,English,92-202,26429,25,3905
+26,326,The Divine Comedy,Dante Alighieri,1308,Italian,Italian,300-500,100000,26,3870
+27,36,The Grapes of Wrath,John Steinbeck,1939,American,English,464,169481,27,3828
+28,258,The Trial,Franz Kafka,1925,Czech,German,200-300,80000,28,3825
+29,1156,The Bible,Unknown,-1400,Jewish,"Hebrew, aramaic, greek",1200-1600,783137,29,3734
+30,107,Jane Eyre,Charlotte Brontë,1847,British,English,300-500,183858,30,3695
+31,466,The Magic Mountain,Thomas Mann,1924,German,German,700-1000,264000,31,3604
+32,59,Mrs. Dalloway,Virginia Woolf,1925,British,English,150-200,64000,32,3551
+33,112,Great Expectations,Charles Dickens,1860,British,English,500-600,186000,33,3510
+34,217,Adventures of Huckleberry Finn,Mark Twain,1884,American,English,200-400,109571,34,3502
+35,18,Catch-22,Joseph Heller,1961,American,English,450-550,174269,35,3366
+36,47,Invisible Man,Ralph Ellison,1952,American,English,200-600,95000,36,3357
+37,407,The Iliad,Homer,-750,Greek,Ancient greek,300-700,155000,37,3221
+38,1409,The Master and Margarita,Mikhail Bulgakov,1967,Russian,Russian,250-500,134000,38,3070
+39,199,Frankenstein,Mary Shelley,1818,British,English,280-320,78000,39,3013
+40,950,Les Misérables,Victor Hugo,1862,French,French,1200-1500,530982,40,2975
+41,485,The Red and the Black,Stendhal,1830,French,French,300-500,217000,41,2796
+42,56,Midnight's Children,Salman Rushdie,1981,"British, Indian",English,450-550,208000,42,2780
+43,90,Things Fall Apart,Chinua Achebe,1958,Nigerian,English,200-250,60000,43,2689
+44,489,One Thousand and One Nights,Unknown,800,Multiple,Arabic,800-1000,700000,44,2685
+45,66,On the Road,Jack Kerouac,1957,American,English,310,86921,45,2638
+46,88,The Sun Also Rises,Ernest Hemingway,1926,American,English,200-300,68000,46,2606
+47,444,"Absalom, Absalom!",William Faulkner,1936,American,English,300-400,120000,47,2566
+48,16051,The Life And Opinions Of Tristram Shandy,Laurence Sterne,1759,British,English,500-600,220000,48,2527
+49,205,David Copperfield,Charles Dickens,1849,British,English,600-900,358000,49,2496
+50,10,Beloved,Toni Morrison,1987,American,English,275-350,90000,50,2495
+51,321,Fictions,Jorge Luis Borges,1944,Argentinian,Spanish,174,,51,2480
+52,2027,The Little Prince,Antoine de Saint-Exupéry,1943,French,French,93-96,16000,52,2469
+53,914,Journey to the End of The Night,Louis-Ferdinand Céline,1932,French,French,400-600,158000,53,2450
+54,126,Brave New World,Aldous Huxley,1932,British,English,200-300,64000,54,2382
+55,139,The Old Man and the Sea,Ernest Hemingway,1952,American,English,120-140,27000,55,2368
+56,89,Their Eyes Were Watching God,Zora Neale Hurston,1937,American,English,200-300,59000,56,2367
+57,4,Animal Farm,George Orwell,1945,British,English,50-150,29500,57,2345
+58,491,The Aeneid,Virgil,19,Roman,Latin,395,128000,58,2267
+59,818,The Diary of a Young Girl,Anne Frank,1947,Dutch,Dutch,220-340,70000,59,2265
+60,193,Gulliver's Travels,Jonathan Swift,1726,British,English,300-400,107349,60,2229
+61,70,A Passage to India,E. M. Forster,1924,British,English,200-400,120000,61,2214
+62,492,Leaves of Grass,Walt Whitman,1855,American,English,95-438,154835,62,2207
+63,234,The Good Soldier,Ford Madox Ford,1915,British,English,200-300,72000,63,2193
+64,82,Slaughterhouse-Five,Kurt Vonnegut,1969,American,English,275-320,49000,64,2193
+65,481,Hamlet,William Shakespeare,1600,British,English,100-200,30000,65,2185
+66,216,The Portrait of a Lady,Henry James,1881,American,English,400-600,188000,66,2180
+67,953,Dracula,Bram Stoker,1897,British,English,398,160000,67,2163
+68,536,Dune,Frank Herbert,1965,American,English,400-500,188000,68,2160
+69,157,In Cold Blood,Truman Capote,1966,American,English,300-400,94000,69,2145
+70,943,Candide,Voltaire,1759,French,French,100-200,30000,70,2120
+71,110,Rebecca,Daphne du Maurier,1938,British,English,300-400,115500,71,2081
+72,467,Essays,Michel de Montaigne,1580,French,French,800-1500,1070000,72,2074
+73,691,Silent Spring,Rachel Carson,1962,American,English,200-300,61000,73,2063
+74,442,The Idiot,Fyodor Dostoevsky,1869,Russian,Russian,600-800,208000,74,2054
+75,51,Lord of the Flies,William Golding,1954,British,English,224,59960,75,2050
+76,484,Oedipus the King,Sophocles,-429,Greek,Ancient greek,128,26000,76,2026
+77,167,Orlando,Virginia Woolf,1928,British,English,200-300,70000,77,2017
+78,35,Gone With the Wind,Margaret Mitchell,1936,American,English,959-1037,418053,78,1992
+79,951,The Leopard,Giuseppe Tomasi di Lampedusa,1958,Italian,Italian,200-300,72000,79,1985
+80,113,Little Women,Louisa May Alcott,1868,American,English,300-500,189000,80,1985
+81,1170,The Metamorphosis,Franz Kafka,1915,Czech,German,40-100,22000,81,1969
+82,1368,The Handmaid's Tale,Margaret Atwood,1985,Canadian,English,300-400,94000,82,1961
+83,455,The Castle,Franz Kafka,1926,Czech,German,200-300,98000,83,1946
+84,125,A Portrait of the Artist as a Young Man,James Joyce,1916,Irish,English,200-300,86332,84,1941
+85,33,The Golden Notebook,Doris May Lessing,1962,British,English,576-640,200000,85,1932
+86,1484,The Stories of Anton Chekhov,Anton Chekhov,1900,Russian,Russian,460,,86,1929
+87,133,As I Lay Dying,William Faulkner,1930,American,English,200-300,56000,87,1913
+88,443,Demons,Fyodor Dostoevsky,1872,Russian,Russian,500-800,332000,88,1894
+89,146,The Age of Innocence,Edith Wharton,1920,American,English,300-400,101572,89,1886
+90,448,Faust,Johann Wolfgang von Goethe,1808,German,German,327,90000,90,1882
+91,1351,All Quiet on the Western Front,Erich Maria Remarque,1928,German,German,200-300,61000,91,1874
+92,198,Emma,Jane Austen,1815,British,English,300-500,155887,92,1869
+93,474,The Complete Tales and Poems of Edgar Allan Poe,Edgar Allan Poe,1902,American,English,1000-1500,,93,1868
+94,96,Under the Volcano,Malcolm Lowry,1947,British,English,300-400,144000,94,1847
+95,203,The Count of Monte Cristo,Alexandre Dumas,1844,French,French,1200-1400,461111,95,1839
+96,220,The Picture of Dorian Gray,Oscar Wilde,1890,British,English,208,78000,96,1832
+97,206,Vanity Fair,William Makepeace Thackeray,1847,British,English,900-1000,346089,97,1790
+98,124,Charlotte's Web,E. B. White,1952,American,English,192,32000,98,1785
+99,207,The Scarlet Letter,Nathaniel Hawthorne,1850,American,English,200-300,63500,99,1782
+100,61,Native Son,Richard Wright,1940,American,English,350-500,100000,100,1781
+101,69,Pale Fire,Vladimir Nabokov,1962,American,English,200-300,95000,101,1759
+102,2028,The Long Goodbye,Raymond Chandler,1953,American,English,250-400,96000,102,1757
+103,192,Robinson Crusoe,Daniel Defoe,1719,British,English,200-300,121961,103,1754
+104,469,The Tale of Genji,Murasaki Shikibu,1001,Japanese,Classical japanese,1000-1200,267000,104,1718
+105,265,The Tin Drum,Günter Grass,1959,German,German,500-600,203000,105,1713
+106,336,Treasure Island,Robert Louis Stevenson,1883,British,English,192,66922,106,1704
+107,465,Buddenbrooks,Thomas Mann,1901,German,German,700-1000,178462,107,1694
+108,562,Bleak House,Charles Dickens,1852,British,English,800-1000,360000,108,1691
+109,12,The Big Sleep,Raymond Chandler,1939,American,English,200-300,69000,109,1662
+110,111,The Wind in the Willows,Kenneth Grahame,1908,British,English,240-320,58500,110,1656
+111,470,The Man Without Qualities,Robert Musil,1930,Austrian,German,1000-2000,177000,111,1655
+112,1163,Waiting for Godot,Samuel Beckett,1953,Irish,French,60-128,30000,112,1645
+113,121,The Color Purple,Alice Walker,1982,American,English,250-350,66000,113,1629
+114,1305,The Second Sex,Simone de Beauvoir,1949,French,French,800-1000,267000,114,1619
+115,955,The Hound of the Baskervilles,Arthur Conan Doyle,1902,British,English,174-256,59860,115,1614
+116,434,The Talented Mr. Ripley,Patricia Highsmith,1955,American,English,250-300,89000,116,1611
+117,11674,Pedro Páramo,Juan Rulfo,1955,Mexican,Spanish,120-200,23000,117,1607
+118,2583,Walden,Henry David Thoreau,1854,American,English,200-350,114000,118,1607
+119,2588,Doctor Faustus,Thomas Mann,1947,German,German,500-700,184000,119,1607
+120,449,Dead Souls,Nikolai Gogol,1842,Russian,Russian,300-550,84000,120,1606
+121,601,Antigone,Sophocles,-441,Greek,Ancient greek,80,12000,121,1586
+122,15,Brideshead Revisited,Evelyn Waugh,1945,British,English,300-400,142000,122,1565
+123,177,The Maltese Falcon,Dashiell Hammett,1930,American,English,213-224,59000,123,1557
+124,20,A Clockwork Orange,Anthony Burgess,1962,British,English,192,64000,124,1557
+125,262,The Plague,Albert Camus,1947,French,French,200-300,72000,125,1551
+126,482,King Lear,William Shakespeare,1608,British,English,100-200,26147,126,1524
+127,330,Tess of the d'Urbervilles,Thomas Hardy,1891,British,English,400-500,151097,127,1514
+128,138,For Whom the Bell Tolls,Ernest Hemingway,1940,American,English,450-500,174632,128,1502
+129,1377,The Bell Jar,Sylvia Plath,1963,American,English,200-300,84000,129,1497
+130,500,The Unbearable Lightness of Being,Milan Kundera,1984,Czech,Czech,200-400,85000,130,1490
+131,100,Wide Sargasso Sea,Jean Rhys,1966,British,English,120-200,64000,131,1488
+132,202,The Charterhouse of Parma,Stendhal,1839,French,French,300-500,210000,132,1485
+133,320,Decameron,Giovanni Boccaccio,1353,Italian,Italian,800-1000,100000,133,1480
+134,2472,One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn,1962,Russian,Russian,100-200,50000,134,1479
+135,210,The Woman in White,Wilkie Collins,1860,British,English,500-700,264000,135,1478
+136,493,Memoirs of Hadrian,Marguerite Yourcenar,1951,French,French,300-400,72000,136,1467
+137,416,Paradise Lost,John Milton,1667,British,English,200-500,80000,137,1445
+138,2560,Poems of Emily Dickinson,Emily Dickinson,1890,American,English,696,,138,1443
+139,1980,First Folio,William Shakespeare,1623,British,English,900,884647,139,1439
+140,954,The Three Musketeers,Alexandre Dumas,1844,French,French,400-700,228000,140,1438
+141,424,Doctor Zhivago,Boris Pasternak,1957,Russian,Russian,450-700,204000,141,1437
+142,40,The Heart Is A Lonely Hunter,Carson McCullers,1940,American,English,300-400,121960,142,1432
+143,445,A Sentimental Education,Gustave Flaubert,1869,French,French,300-500,145000,143,1426
+144,324,The Canterbury Tales,Geoffrey Chaucer,1400,British,Middle english,300-500,120000,144,1426
+145,166,Tender Is the Night,F. Scott Fitzgerald,1934,American,English,260-400,104925,145,1420
+146,435,The Complete Sherlock Holmes,Arthur Conan Doyle,1927,British,English,800-1200,608000,146,1409
+147,76,"Rabbit, Run",John Updike,1960,American,English,250-350,121000,147,1408
+148,156,Howards End,E. M. Forster,1910,British,English,320-400,111025,148,1403
+149,1598,Macbeth,William Shakespeare,1606,British,English,100-150,17000,149,1400
+150,134,A Farewell to Arms,Ernest Hemingway,1929,American,English,300-500,67000,150,1399
+151,181,Lord Jim,Joseph Conrad,1900,British,English,300-500,78000,151,1389
+152,2255,And Then There Were None,Agatha Christie,1939,British,English,200-300,64312,152,1388
+153,75,The Prime of Miss Jean Brodie,Muriel Spark,1961,"British, Scottish",English,128-160,65000,153,1377
+154,884,The Prince,Niccolo Machiavelli,1532,Italian,Italian,70-140,26000,154,1374
+155,446,Love in the Time of Cholera,Gabriel García Márquez,1985,Colombian,Spanish,348,62000,155,1356
+156,1328,Steppenwolf,Hermann Hesse,1927,German,German,200-300,68000,156,1353
+157,2009,Fahrenheit 451,Ray Bradbury,1953,American,English,158-190,46000,157,1351
+158,2251,The Name of the Rose,Umberto Eco,1980,Italian,Italian,500-600,174000,158,1339
+159,3041,The Waste Land,T. S. Eliot,1922,British,English,64-88,434,159,1337
+160,168,Sons and Lovers,D. H. Lawrence,1913,British,English,400-500,153000,160,1336
+161,67,One Flew Over the Cuckoo's Nest,Ken Kesey,1962,American,English,320,104000,161,1335
+162,829,The Interpretation of Dreams,Sigmund Freud,1899,Austrian,German,600-700,203000,162,1330
+163,194,Tom Jones,Henry Fielding,1749,British,English,800-1000,346733,163,1325
+164,104,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979,British,English,150-200,46972,164,1323
+165,106,Winnie the Pooh,A. A. Milne,1926,British,English,100-160,26000,165,1312
+166,152,Lady Chatterley's Lover,D. H. Lawrence,1928,British,English,300-400,114000,166,1310
+167,2395,The Flowers of Evil,Charles Baudelaire,1857,French,French,100-200,,167,1295
+168,318,Fairy Tales and Stories,Hans Christian Andersen,1835,Danish,Danish,569,,168,1272
+169,2,All the King's Men,Robert Penn Warren,1946,American,English,400-500,286000,169,1266
+170,72,Portnoy's Complaint,Philip Roth,1969,American,English,200-300,78500,170,1264
+171,487,Confessions of Zeno,Italo Svevo,1923,Italian,Italian,400-500,126000,171,1260
+172,886,On the Origin of Species,Charles Darwin,1859,British,English,502,155000,172,1256
+173,117,Harry Potter And The Philosopher's Stone,J. K. Rowling,1997,British,English,223-332,76944,173,1250
+174,690,A Room of One's Own,Virginia Woolf,1929,British,English,112-148,37500,174,1247
+175,472,Metamorphoses,Ovid,8,Roman,Latin,200-800,250000,175,1236
+176,952,The Good Soldier Svejk,Jaroslav Hašek,1921,Czech,Czech,600-750,208000,176,1234
+177,905,Confessions,Augustine,397,Roman,Latin,200-300,,177,1224
+178,48,Light in August,William Faulkner,1932,American,English,480-512,123672,178,1222
+179,539,A Christmas Carol,Charles Dickens,1843,British,English,28-116,28945,179,1219
+180,2410,Brighton Rock,Graham Greene,1938,British,English,200-300,67282,180,1214
+181,2651,The End of the Affair,Graham Greene,1951,British,English,160-200,63000,181,1212
+182,230,U.S.A. Trilogy,John Dos Passos,1930,American,English,1200-1500,310000,182,1207
+183,538,Watership Down,Richard Adams,1972,British,English,400-500,156154,183,1194
+184,931,Fathers and Sons,Ivan Turgenev,1862,Russian,Russian,200-300,64000,184,1190
+185,2260,The Once and Future King,T. H. White,1958,British,English,600-700,288000,185,1190
+186,99,White Teeth,Zadie Smith,2000,British,English,448-560,169000,186,1180
+187,44,A House for Mr. Biswas,V. S. Naipaul,1961,Trinidadian,English,350-500,206000,187,1173
+188,87,The Spy Who Came in From the Cold,John le Carré,1963,British,English,200-300,62500,188,1168
+189,1402,A Wrinkle In Time,Madeleine L'Engle,1962,American,English,200-300,49565,189,1167
+190,155,My Antonia,Willa Cather,1918,American,English,200-400,99780,190,1156
+191,731,The Autobiography of Malcolm X,Alex Haley,1965,American,English,460-500,134000,191,1154
+192,2663,Giovanni's Room,James Baldwin,1956,American,English,150-200,62000,192,1153
+193,9,Atonement,Ian McEwan,2001,British,English,350-400,123378,193,1146
+194,2292,Bonjour Tristesse,Francoise Sagan,1954,French,French,100-200,30000,194,1131
+195,165,A Good Man Is Hard to Find,Flannery O'Connor,1953,American,English,30-50,,195,1131
+196,908,If This Is a Man,Primo Levi,1947,Italian,Italian,100-200,38000,196,1131
+197,120,The Hobbit,J. R. R. Tolkien,1937,British,English,300-400,95022,197,1131
+198,14,Blood Meridian,Cormac McCarthy,1985,American,English,300-350,98000,198,1123
+199,2123,A Wizard of Earthsea,Ursula K. Le Guin,1968,American,English,180-205,56000,199,1122
+200,1497,Communist Manifesto,"Karl Marx, Friedrich Engels",1848,German,German,30-40,19000,200,1120
+201,101,An American Tragedy,Theodore Dreiser,1925,American,English,800-900,215000,201,1119
+202,3348,The Haunting of Hill House,Shirley Jackson,1959,American,English,182-246,80274,202,1116
+203,49,"The Lion, The Witch and the Wardrobe",C. S. Lewis,1950,British,English,100-200,38867,203,1111
+204,244,The House of Mirth,Edith Wharton,1905,American,English,350-400,140391,204,1111
+205,454,Franz Kafka,Franz Kafka,1971,Czech,Unknown,450-550,,205,1106
+206,1335,Man's Fate,Andre Malraux,1933,French,French,200-350,90000,206,1098
+207,348,A Confederacy of Dunces,John Kennedy Toole,1980,American,English,300-400,121000,207,1092
+208,2440,A Season in Hell,Arthur Rimbaud,1873,French,French,50-100,5000,208,1088
+209,338,Persuasion,Jane Austen,1817,British,English,230-300,87022,209,1079
+210,475,Gargantua and Pantagruel,Francois Rabelais,1532,French,French,1000-1200,240000,210,1076
+211,364,The Amazing Adventures of Kavalier and Clay,Michael Chabon,2000,American,English,639,216000,211,1075
+212,499,The Remains of the Day,Kazuo Ishiguro,1989,British,English,200-250,72000,212,1069
+213,911,The Life of Samuel Johnson,James Boswell,1791,British,English,1400-1500,208000,213,1067
+214,1595,The Tempest,William Shakespeare,1623,British,English,70-100,17000,214,1064
+215,458,Zorba the Greek,Nikos Kazantzakis,1946,Greek,Greek,300-500,70000,215,1058
+216,738,Out of Africa,Isak Dinesen,1937,Danish,Danish,300-400,104960,216,1056
+217,530,The Gulag Archipelago,Aleksandr Solzhenitsyn,1973,Russian,Russian,1600-2200,660000,217,1055
+218,149,The Jungle,Upton Sinclair,1906,American,English,300-500,154000,218,1050
+219,2803,The Turn of the Screw,Henry James,1898,American,English,120-200,42960,219,1043
+220,550,A Tale of Two Cities,Charles Dickens,1859,British,English,200-500,135420,220,1034
+221,544,The Stand,Stephen King,1978,American,English,823-1152,472000,221,1023
+222,227,Darkness at Noon,Arthur Koestler,1940,British,German,200-300,80000,222,1020
+223,22,The Corrections,Jonathan Franzen,2001,American,English,576,196000,223,1019
+224,2298,The Murder of Roger Ackroyd,Agatha Christie,1926,British,English,300-400,58000,224,1018
+225,2398,Death of Virgil,Hermann Broch,1945,Austrian,German,400-500,153000,225,1017
+226,1695,Molloy,Samuel Beckett,1951,Irish,French,200-300,72000,226,1016
+227,523,The Double Helix,James D. Watson,1968,American,English,200-300,64000,227,1012
+228,936,The Counterfeiters,André Gide,1925,French,French,200-400,95000,228,1012
+229,58,The Moviegoer,Walker Percy,1961,American,English,224,60000,229,1011
+230,882,Democracy in America,Alexis de Tocqueville,1835,French,French,300-900,700000,230,1002
+231,328,Berlin Alexanderplatz,Alfred Döblin,1929,German,German,200-600,150000,231,985
+232,634,Disgrace,J. M. Coetzee,1999,South African,English,220,79000,232,980
+233,143,The World According to Garp,John Irving,1978,American,English,437-609,191473,233,979
+234,653,The Complete Stories of Flannery O'Connor,Flannery O'Connor,1971,American,English,500-600,,234,978
+235,949,Uncle Tom's Cabin,Harriet Beecher Stowe,1852,American,English,300-500,166622,235,975
+236,451,Hunger,Knut Hamsun,1890,Norwegian,Norwegian,100-300,64000,236,974
+237,93,Tropic of Cancer,Henry Miller,1934,American,English,300-400,80000,237,972
+238,2446,Nausea,Jean Paul Sartre,1938,French,French,150-250,70000,238,970
+239,2259,East of Eden,John Steinbeck,1952,American,English,600-800,225000,239,958
+240,572,The Godfather,Mario Puzo,1969,American,English,400-500,141000,240,958
+241,459,Independent People,Halldor Laxness,1934,Icelandic,Icelandic,400-500,200000,241,957
+242,123,Of Mice and Men,John Steinbeck,1937,American,English,100-200,29000,242,955
+243,537,Anne of Green Gables,L. M. Montgomery,1908,Canadian,English,300-400,97000,243,945
+244,944,Oblomov,Ivan Goncharov,1859,Russian,Russian,200-600,200000,244,945
+245,224,Nostromo,Joseph Conrad,1904,British,English,500-600,170000,245,944
+246,1,The Adventures of Augie March,Saul Bellow,1953,American,English,500-600,156000,246,944
+247,418,Collected Poems of W. B. Yeats,William Butler Yeats,1933,Irish,English,576,,247,941
+248,231,"Winesburg, Ohio",Sherwood Anderson,1919,American,English,200-300,52000,248,940
+249,440,Medea,Euripides,-431,Greek,Ancient greek,30-50,,249,939
+250,2573,The Forsyte Saga,John Galsworthy,1906,British,English,872,555000,250,935
+251,2286,The Tartar Steppe,Dino Buzzati,1940,Italian,Italian,200-300,60000,251,931
+252,488,The Death of Ivan Ilyich,Leo Tolstoy,1886,Russian,Russian,50-150,22000,252,931
+253,6,"Are You There God? It's Me, Margaret",Judy Blume,1970,American,English,150-200,25000,253,929
+254,429,The Time Machine,H. G. Wells,1895,British,English,80-120,32000,254,928
+255,1688,The Confessions of Jean-Jacques Rousseau,Jean-Jacques Rousseau,1782,French,French,600-800,267000,255,925
+256,447,Epic of Gilgamesh,Unknown,-2100,Multiple,Akkadian,304,20000,256,924
+257,561,The Secret History,Donna Tartt,1992,American,English,523,223000,257,924
+258,197,Dangerous Liaison,Pierre Choderlos de Laclos,1782,French,French,400-500,175000,258,924
+259,2153,A Tree Grows in Brooklyn,Betty Smith,1943,American,English,300-500,145092,259,921
+260,1282,The Shining,Stephen King,1977,American,English,447-659,163000,260,918
+261,2607,The Waves,Virginia Woolf,1931,British,English,200-300,83000,261,917
+262,1067,The Republic,Plato,-379,Greek,Ancient greek,300-500,118000,262,913
+263,173,Women in Love,D. H. Lawrence,1920,British,English,400-500,134000,263,911
+264,3149,The Lover,Marguerite Duras,1984,French,French,117-148,42000,264,908
+265,243,Of Human Bondage,W. Somerset Maugham,1915,British,English,600-700,250000,265,907
+266,232,The Ambassadors,Henry James,1903,American,English,400-500,112000,266,903
+267,431,Foundation,Isaac Asimov,1951,American,English,200-300,70000,267,892
+268,1079,Labyrinths,Jorge Luis Borges,1962,Argentinian,Spanish,200-300,,268,891
+269,3177,The Radetzky March,Joseph Roth,1932,Austrian,German,300-400,100000,269,890
+270,1491,Thus Spake Zarathustra,Friedrich Nietzsche,1883,German,German,300-500,64000,270,888
+271,42,Herzog,Saul Bellow,1964,American,English,300-400,103000,271,887
+272,885,Leviathan,Thomas Hobbes,1651,British,English,300-500,150000,272,887
+273,2142,The Left Hand Of Darkness,Ursula K. Le Guin,1969,American,English,300-350,97000,273,884
+274,461,Pippi Longstocking,Astrid Lindgren,1945,Swedish,Swedish,100-200,30000,274,882
+275,136,Song of Solomon,Toni Morrison,1977,American,English,337-372,92944,275,880
+276,941,The Pickwick Papers,Charles Dickens,1836,British,English,800-1000,183349,276,878
+277,463,Mahabharata,Vyasa,-400,Indian,Sanskrit,5000-10000,200000,277,870
+278,2462,Siddhartha,Hermann Hesse,1922,German,German,152,50000,278,869
+279,1129,Invisible Cities,Italo Calvino,1972,Italian,Italian,165,36000,279,865
+280,218,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886,British,English,64-178,25000,280,856
+281,174,"Look Homeward, Angel",Thomas Wolfe,1929,American,English,500-600,209000,281,856
+282,724,Homage to Catalonia,George Orwell,1938,British,English,230-300,70000,282,854
+283,54,Lucky Jim,Kingsley Amis,1954,British,English,200-300,84000,283,849
+284,2644,A Hero of Our Time,Mikhail Lermontov,1840,Russian,Russian,150-200,64000,284,849
+285,3154,Life and Fate,Vasily Grossman,1980,Russian,Russian,800-900,290000,285,848
+286,2010,Fear and Loathing in Las Vegas,Hunter S. Thompson,1971,American,English,200-220,42000,286,848
+287,5697,Peter And Wendy,J. M. Barrie,1911,Scottish,English,145,47790,287,847
+288,3411,The Private Memoirs and Confessions of a Justified Sinner,James Hogg,1824,Scottish,English,200-300,78000,288,844
+289,63,Never Let Me Go,Kazuo Ishiguro,2005,"British, Japanese",English,288,88500,289,842
+290,749,The Structure of Scientific Revolutions,Thomas Kuhn,1962,American,English,200-300,114000,290,840
+291,497,The House of the Spirits,Isabel Allende,1982,Chilean,Spanish,400-500,145000,291,832
+292,2653,The Chronicles of Narnia,C. S. Lewis,1950,British,English,100-250,778045,292,831
+293,598,Oresteia,Aeschylus,-458,Greek,Ancient greek,150-200,24000,293,828
+294,2561,The Posthumous Memoirs of Bras Cubas,Machado de Assis,1881,Brazilian,Portuguese,160-320,68000,294,825
+295,2565,Tarzan of the Apes,Edgar Rice Burroughs,1912,American,English,200-400,70000,295,824
+296,148,Finnegans Wake,James Joyce,1939,Irish,English,590-628,215000,296,823
+297,245,The Alexandria Quartet,Lawrence Durrell,1957,British,English,884,495000,297,819
+298,24,A Dance to the Music of Time,Anthony Powell,1951,British,English,240-300,,298,818
+299,172,Wings of the Dove,Henry James,1902,American,English,400-500,150000,299,817
+300,169,Bonfire of the Vanities,Tom Wolfe,1987,American,English,600-700,190000,300,817
+301,1375,Where the Wild Things Are,Maurice Sendak,1963,American,English,40,338,301,816
+302,347,The Stories of John Cheever,John Cheever,1978,American,English,700-800,200000,302,814
+303,185,Babbitt,Sinclair Lewis,1922,American,English,300-400,95000,303,811
+304,141,The Call of the Wild,Jack London,1903,American,English,60-100,32000,304,807
+305,370,The Road,Cormac McCarthy,2006,American,English,287,58000,305,807
+306,693,"Speak, Memory",Vladimir Nabokov,1951,American,English,300-350,97000,306,806
+307,186,Kim,Rudyard Kipling,1901,British,English,200-500,95000,307,806
+308,2609,La Regenta,Clarín,1884,Spanish,Spanish,300-800,314042,308,805
+309,1242,Let Us Now Praise Famous Men,James Agee,1941,American,English,400-500,128000,309,805
+310,2461,"Cry, the Beloved Country",Alan Paton,1948,South African,English,200-300,83000,310,804
+311,1694,Malone Dies,Samuel Beckett,1951,Irish,French,100-200,31000,311,798
+312,9001,La Celestina,Fernando de Rojas,1499,Spanish,Spanish,200-250,22000,312,794
+313,597,2666,Roberto Bolaño,2004,Chilean,Spanish,900-1100,325000,313,792
+314,1275,The Wind-Up Bird Chronicle,Haruki Murakami,1994,Japanese,Japanese,610-640,208000,314,791
+315,1701,The Complete Works of Plato,Plato,-387,Greek,Ancient greek,3506,,315,791
+316,695,"The General Theory of Employment, Interest and Money",John Maynard Keynes,1936,British,English,400-500,134000,316,788
+317,913,Father Goriot,Honoré de Balzac,1835,French,French,300-400,95000,317,788
+318,153,The Awakening,Kate Chopin,1899,American,English,100-200,39000,318,787
+319,2895,The Daughter of Time,Josephine Tey,1951,British,English,206,58270,319,786
+320,687,The Education of Henry Adams,Henry Adams,1907,American,English,300-400,126000,320,781
+321,74,The Power and the Glory,Graham Greene,1940,British,English,200-300,71000,321,777
+322,1640,Meditations,Marcus Aurelius,161,Roman,Greek,200-300,,322,777
+323,870,The Electric Kool-Aid Acid Test,Tom Wolfe,1968,American,English,416,108023,323,771
+324,176,The Autobiography of Alice B. Toklas,Gertrude Stein,1933,American,English,200-300,64500,324,768
+325,250,The Old Wives' Tale,Arnold Bennett,1908,British,English,600-800,190983,325,767
+326,720,Black Lamb and Grey Falcon,Rebecca West,1941,British,English,1100-1200,480000,326,765
+327,2248,Kristin Lavransdatter,Sigrid Undset,1920,Norwegian,Norwegian,1000-1400,360000,327,763
+328,568,The God of Small Things,Arundhati Roy,1997,Indian,English,320,134000,328,762
+329,1154,Our Mutual Friend,Charles Dickens,1864,British,English,800-900,168000,329,753
+330,473,The Book of Disquiet,Fernando Pessoa,1982,Portuguese,Portuguese,240-544,80000,330,752
+331,43,Housekeeping,Marilynne Robinson,1980,American,English,200-300,78000,331,752
+332,46,Infinite Jest,David Foster Wallace,1996,American,English,1079,543000,332,751
+333,705,The Elements of Style,"E. B. White, William Strunk Jr.",1918,American,English,50-100,20000,333,751
+334,619,"The Sea, The Sea",Iris Murdoch,1978,British,English,500-550,200000,334,751
+335,2748,The Mayor of Casterbridge,Thomas Hardy,1886,British,English,300-500,105000,335,748
+336,1076,At Swim Two-Birds,Flann O'Brien,1939,Irish,English,200-300,72000,336,747
+337,27,A Death in the Family,James Agee,1957,American,English,300-400,83000,337,747
+338,2572,The Poems of Robert Frost,Robert Frost,1913,American,English,607,,338,746
+339,103,His Dark Materials,Philip Pullman,1995,British,English,400-550,520000,339,744
+340,371,The Brief Wondrous Life of Oscar Wao,Junot Diaz,2007,Dominican,English,300-400,207500,340,738
+341,144,A Room With a View,E. M. Forster,1908,British,English,200-300,65000,341,738
+342,2743,The Mill on the Floss,George Eliot,1860,British,English,500-700,203000,342,738
+343,437,Murder on the Orient Express,Agatha Christie,1934,British,English,200-350,68000,343,735
+344,2458,Cold Comfort Farm,Stella Gibbons,1932,British,English,230-250,95000,344,734
+345,543,The Secret Garden,Frances Hodgson Burnett,1911,British,English,200-400,80000,345,732
+346,264,The Quiet American,Graham Greene,1955,British,English,180-200,62000,346,732
+347,935,The Princess of Cleves,Madame de La Fayette,1678,French,French,200-300,70000,347,731
+348,195,Clarissa,Samuel Richardson,1748,British,English,1500-1600,984000,348,731
+349,2441,Memoirs From Beyond the Grave,François-Auguste-René de Chateaubriand,1849,French,French,600-700,,349,728
+350,2597,Ferdydurke,Witold Gombrowicz,1937,Polish,Polish,200-300,62000,350,724
+351,368,Gilead,Marilynne Robinson,2004,American,English,247,84000,351,717
+352,2062,I Know Why the Caged Bird Sings,Maya Angelou,1969,American,English,200-300,78000,352,713
+353,2725,Journey to the West,Wu Cheng'en,1592,Chinese,Chinese,1500-2000,400000,353,712
+354,6032,Kolyma Stories,Varlam Shalamov,1954,Russian,Russian,500-600,,354,709
+355,2367,History of My Life,Giacomo Casanova,1822,Italian,French,3500-4000,1500000,355,707
+356,366,Middlesex,Jeffrey Eugenides,2002,American,English,529,196000,356,706
+357,1145,The Things They Carried,Tim O'Brien,1990,American,English,233,62000,357,699
+358,5884,The Hollow Man,John Dickson Carr,1935,British,English,247,60000,358,698
+359,55,The Man Who Loved Children,Christina Stead,1940,Australian,English,500-600,200000,359,697
+360,37,Gravity's Rainbow,Thomas Pynchon,1973,American,English,760-776,305000,360,696
+361,1162,A Vindication of the Rights of Woman,Mary Wollstonecraft,1792,British,English,200-300,74921,361,692
+362,45,"I, Claudius",Robert Graves,1934,British,English,300-500,100000,362,692
+363,2819,Ivanhoe,Sir Walter Scott,1819,British,English,400-600,183858,363,690
+364,642,Wolf Hall,Hilary Mantel,2009,British,English,650-700,200000,364,687
+365,34,Go Tell it on the Mountain,James Baldwin,1953,American,English,256-320,78500,365,686
+366,98,White Noise,Don DeLillo,1985,American,English,300-400,78500,366,686
+367,3453,Gormenghast,Mervyn Peake,1950,British,English,400-500,205000,367,686
+368,3,American Pastoral,Philip Roth,1997,American,English,423,145000,368,684
+369,295,The Good Earth,Pearl S. Buck,1931,American,English,300-400,97000,369,683
+370,2344,The Moonstone,Wilkie Collins,1868,British,English,400-500,197790,370,683
+371,60,Naked Lunch,William S. Burroughs,1959,American,English,200-250,58950,371,682
+372,3269,I Capture the Castle,Dodie Smith,1948,British,English,300-400,143000,372,681
+373,714,The Souls of Black Folk,W. E. B. Du Bois,1903,American,English,100-200,85000,373,681
+374,1452,Cloud Atlas,David Mitchell,2004,British,English,509-544,172000,374,680
+375,433,Do Androids Dream of Electric Sheep?,Philip K. Dick,1968,American,English,210-256,61000,375,676
+376,2340,A Fine Balance,Rohinton Mistry,1995,Indian,English,600-750,192000,376,674
+377,937,Germinal,Émile Zola,1885,French,French,300-600,196000,377,674
+378,284,Austerlitz,W. G. Sebald,2001,German,German,200-300,128000,378,673
+379,441,Gypsy Ballads,Federico García Lorca,1928,Spanish,Spanish,64,,379,671
+380,821,Relativity,Albert Einstein,1916,German,German,130-150,30000,380,671
+381,180,War of the Worlds,H. G. Wells,1898,British,English,200-300,60000,381,670
+382,2031,The Phantom Tollbooth,Norton Juster,1961,American,English,256,39000,382,668
+383,942,The Sorrows of Young Werther,Johann Wolfgang von Goethe,1774,German,German,100-200,64000,383,666
+384,239,Parade's End,Ford Madox Ford,1924,British,English,800-900,200000,384,665
+385,184,Atlas Shrugged,Ayn Rand,1957,American,English,1000-1200,645000,385,665
+386,254,The Postman Always Rings Twice,James M. Cain,1934,American,English,100-200,37000,386,664
+387,2294,"Life, a User's Manual",Georges Perec,1978,French,French,500-600,156000,387,664
+388,2382,The Confusions of Young Törless,Robert Musil,1906,Austrian,German,150-300,70000,388,662
+389,450,The Devil to Pay in the Backlands,Joao Guimaraes Rosa,1956,Brazilian,Portuguese,500-600,600000,389,662
+390,222,Jude the Obscure,Thomas Hardy,1895,British,English,400-500,145000,390,661
+391,2144,The Razor's Edge,W. Somerset Maugham,1944,British,English,300-400,84000,391,661
+392,490,Ramayana,Valmiki,-200,Indian,Sanskrit,500-2000,24000,392,658
+393,479,Season of Migration to the North,Al-Tayyib Salih,1966,Sudanese,Arabic,139-169,50000,393,655
+394,737,The Second World War,Winston Churchill,1948,British,English,3000-3500,1250000,394,654
+395,1485,The Feminine Mystique,Betty Friedan,1963,American,English,300-400,178000,395,651
+396,879,Das Kapital,Karl Marx,1867,German,German,153,330000,396,650
+397,9410,Le Grand Meaulnes,Henri Alain-Fournier,1913,French,French,200-300,47000,397,650
+398,2733,The Federalist Papers,"Alexander Hamilton, James Madison, John Jay",1787,American,English,400-500,85000,398,649
+399,2923,We,Yevgeny Zamyatin,1924,Russian,Russian,200-300,50000,399,646
+400,2336,Notes from the Underground,Fyodor Dostoevsky,1864,Russian,Russian,70-150,67000,400,646
+401,2602,Hopscotch,Julio Cortazar,1963,Argentinian,Spanish,564,155000,401,643
+402,2105,Nightwood,Djuna Barnes,1936,American,English,160-200,50000,402,641
+403,2469,The Alchemist,Paulo Coelho,1988,Brazilian,Portuguese,163-208,45000,403,640
+404,2880,Amerika,Franz Kafka,1927,Czech,German,336,78000,404,638
+405,4568,The Silence of the Lambs,Thomas Harris,1988,American,English,350-450,110942,405,637
+406,3816,Joseph and His Brothers,Thomas Mann,1933,German,German,1200-1500,365000,406,636
+407,2327,The Notebooks of Malte Laurids Brigge,Rainer Maria Rilke,1910,German,German,200-300,50000,407,635
+408,2457,Eugene Onegin,Alexander Pushkin,1833,Russian,Russian,200-300,49000,408,632
+409,3034,The Prophet,Kahlil Gibran,1923,Lebanese,English,90-130,12000,409,631
+410,2559,Collected Poems,Wallace Stevens,1954,American,English,300-500,,410,631
+411,1151,Critique of Pure Reason,Immanuel Kant,1781,German,German,500-800,120000,411,627
+412,71,Play It As It Lays,Joan Didion,1970,American,English,200-250,56000,412,627
+413,2826,The Adventures of Tom Sawyer,Mark Twain,1876,American,English,180-250,70400,413,621
+414,3456,The Ragged Trousered Philanthropists,"Robert Tressell, Peter Miles",1914,British,English,704,250000,414,620
+415,496,The Fall,Albert Camus,1956,French,French,140-160,26000,415,620
+416,2151,Stranger in a Strange Land,Robert A. Heinlein,1961,American,English,408-528,220000,416,620
+417,1318,Man's Search for Meaning,Viktor Frankl,1946,Austrian,German,100-200,42000,417,619
+418,3778,Passing,Nella Larsen,1929,American,English,95-122,38878,418,617
+419,844,Tractatus Logico-Philosophicus,Ludwig Wittgenstein,1921,Austrian,German,70-80,30000,419,616
+420,2620,Bartleby the Scrivener,Herman Melville,1853,American,English,30-50,35000,420,616
+421,600,Oedipus at Colonus,Sophocles,-401,Greek,Ancient greek,80-120,,421,615
+422,509,Another Country,James Baldwin,1962,American,English,400-448,166121,422,614
+423,3683,Melmoth the Wanderer,Charles Robert Maturin,1820,British,English,600-700,220000,423,613
+424,1043,The Year of Magical Thinking,Joan Didion,2005,American,English,227-240,64500,424,612
+425,1679,Pensées,Blaise Pascal,1670,French,French,444,70000,425,612
+426,2145,Nine Stories,J. D. Salinger,1953,American,English,200-300,63000,426,611
+427,2448,The Savage Detectives,Roberto Bolaño,1998,Chilean,Spanish,500-600,208000,427,611
+428,733,Eminent Victorians,Lytton Strachey,1918,British,English,200-300,64500,428,610
+429,2613,Fortunata and Jacinta,Benito Pérez Galdós,1887,Spanish,Spanish,800-1000,267000,429,608
+430,2343,The Glass Bead Game,Hermann Hesse,1943,German,German,500-600,137000,430,608
+431,1696,The Unnamable,Samuel Beckett,1953,Irish,French,100-150,27000,431,607
+432,452,A Doll's House,Henrik Ibsen,1879,Norwegian,Norwegian,70-100,30000,432,606
+433,2443,The Code of the Woosters,P. G. Wodehouse,1938,British,English,200-300,59670,433,606
+434,2365,Household Tales,Brothers Grimm,1812,German,German,200-300,160000,434,605
+435,947,The Betrothed,Alessandro Manzoni,1827,Italian,Italian,720-900,322000,435,604
+436,2334,Stories of Ernest Hemingway,Ernest Hemingway,1987,American,English,650,,436,604
+437,2850,Casino Royale,Ian Fleming,1953,British,English,192-240,58240,437,603
+438,2037,A Visit From The Goon Squad,Jennifer Egan,2010,American,English,288-352,108000,438,598
+439,881,The Social Contract,Jean-Jacques Rousseau,1762,French,French,150-200,50000,439,597
+440,520,The Affluent Society,John Kenneth Galbraith,1958,American,English,200-300,103000,440,591
+441,1606,Parallel Lives,Plutarch,-100,Greek,Greek,500-700,,441,590
+442,2000,A Brief History of Time,Stephen Hawking,1988,British,English,200-256,41000,442,589
+443,2497,The Hunchback of Notre-Dame,Victor Hugo,1831,French,French,300-500,183000,443,588
+444,2635,Poems by Machado,Antonio Machado,1907,Spanish,Spanish,100-150,,444,586
+445,1940,The Joy Luck Club,Amy Tan,1989,American,English,288-332,91084,445,586
+446,327,Jacques the Fatalist and His Master,Denis Diderot,1796,French,French,200-300,117000,446,584
+447,3043,Complete Poems,Elizabeth Bishop,1969,American,English,200-300,,447,584
+448,3928,Ada or Ardor,Vladimir Nabokov,1969,American,English,589-624,144000,448,584
+449,2604,Poet in New York,Federico García Lorca,1940,Spanish,Spanish,50-100,,449,583
+450,238,The Secret Agent,Joseph Conrad,1907,British,English,320,105672,450,581
+451,1303,Persepolis,Marjane Satrapi,2000,Iranian,French,153,,451,580
+452,2277,Froth on the daydream,Boris Vian,1947,French,French,200-300,36000,452,579
+453,2593,Facundo,Domingo Faustino Sarmiento,1845,Argentinian,Spanish,250-350,,453,579
+454,1603,De Rerum Natura,Lucretius,55,Roman,Latin,200-300,74000,454,578
+455,3051,The Princess Bride,William Goldman,1973,American,English,200-500,107253,455,576
+456,2618,Bouvard et Pécuchet,Gustave Flaubert,1881,French,French,350-450,134203,456,575
+457,1495,On Liberty,John Stuart Mill,1859,British,English,100-150,59000,457,574
+458,1269,Dubliners,James Joyce,1914,Irish,English,152-224,65000,458,572
+459,2549,Richard III,William Shakespeare,1592,British,English,90-120,29000,459,571
+460,428,Twenty Thousand Leagues Under the Sea,Jules Verne,1870,French,French,320-480,138126,460,570
+461,236,Sister Carrie,Theodore Dreiser,1900,American,English,300-500,145000,461,568
+462,3119,The Human Comedy,Honoré de Balzac,1830,French,French,13755,,462,568
+463,2012,Goodnight Moon,Margaret Wise Brown,1947,American,English,30-32,130,463,567
+464,4354,The Swindler,Francisco de Quevedo,1626,Spanish,Spanish,200-300,64000,464,567
+465,28,The Death of the Heart,Elizabeth Bowen,1938,"British, Irish",English,320-400,101473,465,567
+466,3215,Effi Briest,Theodor Fontane,1895,German,German,300-400,118000,466,566
+467,3807,The Blind Owl,Ṣādiq Hidāyat,1937,Iranian,Persian,100-150,26000,467,565
+468,25,The Day of the Locust,Nathanael West,1939,American,English,160-180,50000,468,564
+469,421,Rabbit Redux,John Updike,1971,American,English,350-450,121000,469,561
+470,3287,The Nicomachean Ethics,Aristotle,-334,Greek,Ancient greek,300-400,116000,470,561
+471,391,The Human Stain,Philip Roth,2000,American,English,361,136000,471,560
+472,1326,Roots,Alex Haley,1976,American,English,576-688,587287,472,559
+473,3795,The Nine Tailors,Dorothy L. Sayers,1934,British,English,300-400,104000,473,558
+474,77,Ragtime,E. L. Doctorow,1975,American,English,250-350,72000,474,557
+475,2832,The Bluest Eye,Toni Morrison,1970,American,English,160-220,78000,475,557
+476,663,"So Long, See You Tomorrow",William Maxwell,1980,American,English,135-160,59000,476,557
+477,212,The Way We Live Now,Anthony Trollope,1875,British,English,800-1000,362000,477,556
+478,257,The Thirty-Nine Steps,John Buchan,1915,British,English,100-200,60988,478,555
+479,3452,Titus Groan,Mervyn Peake,1946,British,English,400-500,138000,479,554
+480,3900,Arrow of God,Chinua Achebe,1964,Nigerian,English,210-230,96000,480,554
+481,1689,Reflections on the Revolution in France,Edmund Burke,1790,British,English,200-300,96000,481,553
+482,2637,The Garden of the Finzi-Continis,Giorgio Bassani,1962,Italian,Italian,300-400,,482,552
+483,607,The Histories of Herodotus,Herodotus,-450,Greek,Ancient greek,500-700,200000,483,552
+484,2626,The Time of the Hero,Mario Vargas Llosa,1963,Peruvian,Spanish,200-400,,484,551
+485,9678,The Aleph And Other Stories,Jorge Luis Borges,1949,Argentinian,Spanish,200-300,,485,551
+486,3455,Testament Of Youth,Vera Brittain,1933,British,English,600-700,250000,486,550
+487,831,The Joy of Cooking,"Irma S. Rombauer, Marion Rombauer Becker, Ethan Becker",1931,American,English,1200-1328,,487,548
+488,62,Neuromancer,William Gibson,1984,"American, Canadian",English,271-320,78973,488,547
+489,3183,Perfume,Patrick Suskind,1985,German,German,250-300,51000,489,547
+490,2645,Moll Flanders,Daniel Defoe,1722,British,English,320-370,138582,490,547
+491,2563,Poems of W. H. Auden,W. H. Auden,1930,British,English,200-300,,491,546
+492,1084,I'm Not Stiller,Max Frisch,1954,Swiss,German,300-400,,492,540
+493,744,The Open Society and Its Enemies,Karl Popper,1945,British,English,800-1000,,493,538
+494,4555,Harriet the Spy,Louise Fitzhugh,1964,American,English,300-350,58555,494,537
+495,271,If on a Winter's Night a Traveller,Italo Calvino,1979,Italian,Italian,200-300,56000,495,537
+496,700,The Civil War,Shelby Foote,1958,American,English,2934,1200000,496,537
+497,39,A Handful of Dust,Evelyn Waugh,1934,British,English,200-300,68000,497,537
+498,812,Philosophical Investigations,Ludwig Wittgenstein,1953,Austrian,German,200-300,50000,498,536
+499,3038,Interview with the Vampire,Anne Rice,1976,American,English,300-400,242000,499,535
+500,3031,Call to Arms,Lu Xun,1922,Chinese,Chinese,200-300,,500,531
